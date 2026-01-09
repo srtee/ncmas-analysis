@@ -1,0 +1,466 @@
+Project ID,Lead CI,Institution,Title,FoR-08,Gadi Allocation kSU,Setonix CPU Allocation kSU,Setonix GPU Allocation kSU,Total Allocation kSU
+NCMAS-2023-81,Matthew Field,James Cook University,Developing Bioinformatics Capability to Diagnose Infectious Diseases using Clinical Metagenomics,"060102 Bioinformatics: 34%
+080301 Bioinformatics Software: 33%
+060503 Microbial Genetics: 33%",1000,,,1000
+NCMAS-2023-1,Jared Cole,Royal Melbourne Institute of Technology,The materials science of next generation quantum devices.,"020404 Electronic and Magnetic Properties of Condensed Matter; Superconductivity: 35%
+020600 Quantum Physics: 20%
+020502 Lasers and Quantum Electronics: 15%
+091208 Organic Semiconductors: 10%
+020604 Quantum Optics: 10%
+091204 Elemental Semiconductors: 10%",1000,,,1000
+NCMAS-2023-22,Yuan FENG,University of NSW,Natural-disaster resilience assessment of civil infrastructure systems under climate change,"070503 Forestry Fire Management: 17%
+080100 Artificial Intelligence and Image Processing: 17%
+040104 Climate Change Processes: 17%
+040604 Natural Hazards: 17%
+090505 Infrastructure Engineering and Asset Management: 16%
+090500 Civil Engineering: 16%",1000,,,1000
+NCMAS-2023-137,Sean Li,University of NSW,Accelerate Functional Material Designs Using Artificial Inetelligence,"020403 Condensed Matter Modelling and Density Functional Theory: 40%
+030304 Physical Chemistry of Materials: 30%
+020404 Electronic and Magnetic Properties of Condensed Matter; Superconductivity: 30%",1200,,,1200
+NCMAS-2023-122,Aibing Yu,Monash University,Simulation and Modelling of Particulate Systems,"090407 Process Control and Simulation: 20%
+091501 Computational Fluid Dynamics: 20%
+091404 Mineral Processing/Beneficiation: 20%
+090406 Powder and Particle Technology: 20%
+100708 Nanomaterials: 20%",1000,4000,2000,7000
+NCMAS-2023-72,Sang Lee,University of South Australia,Novel whole-genome approaches to capture the latent genetic architecture of complex traits,"060412 Quantitative Genetics (incl. Disease and Trait Mapping Genetics): 20%
+070200 Animal Production: 20%
+070201 Animal Breeding: 20%
+060400 Genetics: 20%
+060408 Genomics: 20%",1000,,,1000
+NCMAS-2023-56,Eduardo Eyras,Australian National University,Comprehensive characterisation of the ribosomal DNA in brain cancer,"060102 Bioinformatics: 34%
+060408 Genomics: 33%
+111203 Cancer Genetics: 33%",1600,,,1600
+NCMAS-2023-79,Alister Page,University of Newcastle,Elucidating Nanostructured Phases with Quantum Chemistry,"030700 Theoretical and Computational Chemistry: 40%
+030603 Colloid and Surface Chemistry: 30%
+030304 Physical Chemistry of Materials: 30%",1500,,,1500
+NCMAS-2023-52,Igor Bray,Curtin University of Technology,Atomic and Molecular Collision Theory,020201 Atomic and Molecular Physics: 100%,1700,23000,10000,34700
+NCMAS-2023-24,Danial Jahed Armaghani,"University of Technology, Sydney",Exploring the dissolution and nucleation mechanism of cementitious materials at the atomic and molecular level,"020403 Condensed Matter Modelling and Density Functional Theory: 40%
+090500 Civil Engineering: 35%
+080110 Simulation and Modelling: 25%",,1250,,1250
+NCMAS-2023-132,Ryan Holmes,University of Sydney,Mixing and air-sea coupling in the tropical Pacific: Toward improved El Nino forecasting,"040503 Physical Oceanography: 50%
+040104 Climate Change Processes: 25%
+040403 Geophysical Fluid Dynamics: 25%",4000,,,4000
+NCMAS-2023-23,Suresh Bhatia,University of Queensland,Investigation of Transport Barriers in Next-Generation Energy Storage and Gas Separation Materials,"090499 Chemical Engineering not elsewhere classified: 60%
+030607 Transport Properties and Non-Equilibrium Processes: 40%",1000,3300,,4300
+NCMAS-2023-142,Christoph Arns,University of NSW,Multi-scale multi-physics modelling for geostorage applicatons,"040499 Geophysics not elsewhere classified: 30%
+091406 Petroleum and Reservoir Engineering: 30%
+010302 Numerical Solution of Differential and Integral Equations: 20%
+040603 Hydrogeology: 20%",16000,,,16000
+NCMAS-2023-34,Fabio Capitanio,Monash University,4-D Numerical Models of Plate Tectonics on Earth and other planets,"040403 Geophysical Fluid Dynamics: 34%
+040402 Geodynamics: 33%
+040605 Palaeoclimatology: 33%",5500,,,5500
+NCMAS-2023-12,Susanna Guatelli,University of Wollongong,Development  and use of Monte Carlo particle transport simulations for bio-medical research,"029903 Medical Physics: 60%
+029904 Synchrotrons; Accelerators; Instruments and Techniques: 40%",1300,,,1300
+NCMAS-2023-65,Rongkun Zheng,University of Sydney,Atomistic simulation of advanced materials with combining first-principle calculation and deep-learning method: from microstructure to functionality,"020403 Condensed Matter Modelling and Density Functional Theory: 60%
+091205 Functional Materials: 20%
+020404 Electronic and Magnetic Properties of Condensed Matter; Superconductivity: 20%",3000,2500,1000,6500
+NCMAS-2023-108,Han Huang,University of Queensland,Developing a high performance lapping technology for difficult-to-machine brittle materials,"091300 Mechanical Engineering: 80%
+090400 Chemical Engineering: 20%",1000,,,1000
+NCMAS-2023-117,Nicolas Flament,University of Wollongong,4D relationships between supercontinents and mantle convection on a cooling Earth,"040402 Geodynamics: 65%
+040313 Tectonics: 25%
+040314 Volcanology: 10%",1000,,,1000
+NCMAS-2023-87,Jason Evans,University of NSW,Regional Climate Modelling in Australia,"040104 Climate Change Processes: 50%
+040100 Atmospheric Sciences: 25%
+040608 Surfacewater Hydrology: 15%
+050101 Ecological Impacts of Climate Change: 10%",2600,7500,,10100
+NCMAS-2023-104,Con Doolan,University of NSW,Aeroacoustics of low and high Mach number flows,"091301 Acoustics and Noise Control (excl. Architectural Acoustics): 50%
+091508 Turbulent Flows: 50%",1000,,,1000
+NCMAS-2023-13,Gregory Sheard,Monash University,Two-dimensionalisation of MHD turbulence and ultimate horizontal convection regimes,"091502 Computational Heat Transfer: 50%
+091501 Computational Fluid Dynamics: 30%
+091504 Fluidisation and Fluid Mechanics: 20%",1000,1000,,2000
+NCMAS-2023-10,Mark Krumholz,Australian National University,Star Formation and Feedback in a Turbulent Interstellar Medium,"020103 Cosmology and Extragalactic Astronomy: 35%
+020104 Galactic Astronomy: 35%
+020110 Stellar Astronomy and Planetary Systems: 20%
+020106 High Energy Astrophysics; Cosmic Rays: 10%",8000,4000,8400,20400
+NCMAS-2023-147,Brian Yates,University of Tasmania,Designing Better Catalysts,"030207 Transition Metal Chemistry: 25%
+030601 Catalysis and Mechanisms of Reactions: 25%
+030701 Quantum Chemistry: 25%
+039904 Organometallic Chemistry: 25%",1000,,,1000
+NCMAS-2023-50,Katrin Meissner,University of NSW,"Abrupt climate change events in the past, present and future","040104 Climate Change Processes: 50%
+040605 Palaeoclimatology: 20%
+040503 Physical Oceanography: 20%
+040502 Chemical Oceanography: 5%
+040501 Biological Oceanography: 5%",7000,,,7000
+NCMAS-2023-100,Marco Fronzi,"University of Technology, Sydney",Quantum mechanics and machine learning models for novel 2-dimensional van der Waals materials discovery,"020403 Condensed Matter Modelling and Density Functional Theory: 25%
+091205 Functional Materials: 25%
+100708 Nanomaterials: 25%
+030307 Theory and Design of Materials: 25%",1500,,,1500
+NCMAS-2023-107,Catherine Stampfl,University of Sydney,"First-Principles Investigations of Processes and Properties in Catalysis, Coatings, and Devices","030307 Theory and Design of Materials: 35%
+020404 Electronic and Magnetic Properties of Condensed Matter; Superconductivity: 25%
+030601 Catalysis and Mechanisms of Reactions: 25%
+010506 Statistical Mechanics, Physical Combinatorics and Mathematical Aspects of Condensed Matter: 15%",1500,3000,,4500
+NCMAS-2023-39,Joel Brugger,Monash University,Thermodynamics of the Earth’s metal factory,"040200 Geochemistry: 70%
+091400 Resources Engineering and Extractive Metallurgy: 30%",,1000,,1000
+NCMAS-2023-44,Richard Sandberg,University of Melbourne,High-fidelity simulations of turbulent flows in power generation and transport,"091508 Turbulent Flows: 50%
+091501 Computational Fluid Dynamics: 30%
+091502 Computational Heat Transfer: 20%",3600,13000,34000,50600
+NCMAS-2023-144,Maria Forsyth,Deakin University,Molecular design of electrolyte materials for energy storage and corrosion protection applications,"091205 Functional Materials: 20%
+020403 Condensed Matter Modelling and Density Functional Theory: 20%
+020405 Soft Condensed Matter: 20%
+030304 Physical Chemistry of Materials: 20%
+030607 Transport Properties and Non-Equilibrium Processes: 20%",1000,,,1000
+NCMAS-2023-55,Rey Cheng Chin,University of Adelaide,Numerical simulations of rough wall turbulence: A control's approach,091508 Turbulent Flows: 100%,1000,11000,,12000
+NCMAS-2023-2,Qiushi Guan,CSIRO,Hydrofluoric acid in geo-fluids under high pressure and temperature,040200 Geochemistry: 100%,,1000,,1000
+NCMAS-2023-21,Hugh Blackburn,Monash University,Simulation of Transitional and Turbulent Flows for Engineering Applications,"010204 Dynamical Systems in Applications: 25%
+010207 Theoretical and Applied Mechanics: 25%
+091508 Turbulent Flows: 25%
+090101 Aerodynamics (excl. Hypersonic Aerodynamics): 25%",1000,2200,,3200
+NCMAS-2023-51,Luming Shen,University of Sydney,Multiscale modelling of multiphase interaction in micro- and nano-porous media,"091402 Geomechanics and Resources Geotechnical Engineering: 60%
+091307 Numerical Modelling and Mechanical Characterisation: 40%",1000,,,1000
+NCMAS-2023-115,Richmond Lee,University of Wollongong,Computationally-Guided Catalysis & Molecular Design,"030601 Catalysis and Mechanisms of Reactions: 34%
+030699 Physical Chemistry not elsewhere classified: 33%
+030505 Physical Organic Chemistry: 33%",1000,,,1000
+NCMAS-2023-17,Hongtao Zhu,University of Wollongong,Carbon Based Tribofilm to improve Engine Performance,"091309 Tribology: 50%
+091307 Numerical Modelling and Mechanical Characterisation: 50%",1066,,,1066
+NCMAS-2023-112,Callum Shakespeare,Australian National University,Parameterising unresolved ocean dynamics and thermodynamics,"040403 Geophysical Fluid Dynamics: 50%
+040503 Physical Oceanography: 50%",1500,,,1500
+NCMAS-2023-90,Naotsugu Tsuchiya,Monash University,Computational approaches towards the neuronal basis of consciousness,"170112 Sensory Processes, Perception and Performance: 60%
+110906 Sensory Systems: 30%
+170201 Computer Perception, Memory and Attention: 10%",,1300,,1300
+NCMAS-2023-88,Elizabeth Krenske,University of Queensland,Computational Investigations of Molecular Structure and Reactivity,"030701 Quantum Chemistry: 20%
+030601 Catalysis and Mechanisms of Reactions: 20%
+030402 Biomolecular Modelling and Design: 20%
+030503 Organic Chemical Synthesis: 20%
+030307 Theory and Design of Materials: 20%",1000,250,1000,2250
+NCMAS-2023-45,Julian Gale,Curtin University of Technology,Atomistic Simulation for Geochemistry and Nanoscience,"030600 Physical Chemistry (including Structural): 30%
+020406 Surfaces and Structural Properties of Condensed Matter: 25%
+030704 Statistical Mechanics in Chemistry: 20%
+030701 Quantum Chemistry: 15%
+040306 Mineralogy and Crystallography: 10%",7000,12000,7000,26000
+NCMAS-2023-120,David Huang,University of Adelaide,Multi-scale modelling of soft condensed matter in functional materials,"030704 Statistical Mechanics in Chemistry: 45%
+030607 Transport Properties and Non-Equilibrium Processes: 35%
+020405 Soft Condensed Matter: 20%",1000,,,1000
+NCMAS-2023-136,Ting Liao,Queensland University of Technology,Computational Design of Two-Dimensional Hybrids Based Nanomaterials for Sustainable Energy Application,"030700 Theoretical and Computational Chemistry: 40%
+091205 Functional Materials: 40%
+020406 Surfaces and Structural Properties of Condensed Matter: 20%",1000,1500,,2500
+NCMAS-2023-145,Haibo Yu,University of Wollongong,Computer simulations of molecular systems and computer-aided molecular design,"060112 Structural Biology (incl. Macromolecular Modelling): 30%
+030400 Medicinal and Biomolecular Chemistry: 30%
+030700 Theoretical and Computational Chemistry: 20%
+030307 Theory and Design of Materials: 20%",1000,2500,500,4000
+NCMAS-2023-15,Daniel Chung,University of Melbourne,Direct numerical simulation of wall-bounded and buoyancy-driven turbulent flows,091508 Turbulent Flows: 100%,5000,10000,,15000
+NCMAS-2023-139,Merlinde Kay,University of NSW,Australian Solar Resource Assessment and Forecasting,"090608 Renewable Power and Energy Systems Engineering (excl. Solar Cells): 50%
+040106 Cloud Physics: 25%
+040103 Atmospheric Radiation: 25%",1000,,,1000
+NCMAS-2023-37,Maryam Ghodrat,UNSW Canberra,CFD Simulation of fire-wind interaction and its effect on buildings in bushfire prone areas,"070503 Forestry Fire Management: 50%
+091502 Computational Heat Transfer: 30%
+091300 Mechanical Engineering: 20%",1000,,,1000
+NCMAS-2023-33,Debra Bernhardt,University of Queensland,"Molecular systems out of equilibrium: theory, simulation and application","030307 Theory and Design of Materials: 20%
+020403 Condensed Matter Modelling and Density Functional Theory: 20%
+030701 Quantum Chemistry: 20%
+020304 Thermodynamics and Statistical Physics: 20%
+030607 Transport Properties and Non-Equilibrium Processes: 20%",1000,4000,3000,8000
+NCMAS-2023-54,Nicholas Williamson,University of Sydney,Dynamics of Intermittent and Suppressed Mixing Regimes in Australian Rivers,"091501 Computational Fluid Dynamics: 34%
+091508 Turbulent Flows: 33%
+091504 Fluidisation and Fluid Mechanics: 33%",1000,,,1000
+NCMAS-2023-47,Jack Evans,University of Adelaide,Simulations of dynamic materials for heterogeneous catalysis,"030307 Theory and Design of Materials: 60%
+030601 Catalysis and Mechanisms of Reactions: 20%
+030703 Reaction Kinetics and Dynamics: 20%",,500,500,1000
+NCMAS-2023-11,Michelle Spencer,Royal Melbourne Institute of Technology,Modelling Nanoscale Materials for Sensing and Device Applications,"020403 Condensed Matter Modelling and Density Functional Theory: 50%
+030700 Theoretical and Computational Chemistry: 50%",1500,7000,,8500
+NCMAS-2023-118,Judy Hart,University of NSW,Design and development of photoactive and catalytic materials for efficient solar-to-fuel conversion,"030307 Theory and Design of Materials: 35%
+030304 Physical Chemistry of Materials: 30%
+030206 Solid State Chemistry: 20%
+020403 Condensed Matter Modelling and Density Functional Theory: 15%",1000,,,1000
+NCMAS-2023-5,Charlotte Petersen,University of Melbourne,Extracting the hidden structure of glass from particle vibrations,030700 Theoretical and Computational Chemistry: 100%,1000,,,1000
+NCMAS-2023-28,Mohsen Talei,University of Melbourne,Developing predictive tools for cleaner combustion,"091508 Turbulent Flows: 50%
+091305 Energy Generation, Conversion and Storage Engineering: 30%
+091301 Acoustics and Noise Control (excl. Architectural Acoustics): 20%",,2000,,2000
+NCMAS-2023-123,Lars Goerigk,University of Melbourne,Theoretical and Computational Quantum Chemistry Including Development of Computational Methods and Computational Materials Science,"030701 Quantum Chemistry: 80%
+030303 Optical Properties of Materials: 20%",1500,,,1500
+NCMAS-2023-53,Yun Wang,Griffith University,Computer-aided materials design for advanced manufacturing and clean environment,"030604 Electrochemistry: 50%
+030603 Colloid and Surface Chemistry: 30%
+090402 Catalytic Process Engineering: 20%",1000,4000,,5000
+NCMAS-2023-29,Yvonne Wong,University of NSW,Cosmological simulations of dark matter axions scenarios,020203 Particle Physics: 100%,1000,,,1000
+NCMAS-2023-27,Rhodri Davies,Australian National University,Revealing the 4-D Evolution of Earth's Engine,"040402 Geodynamics: 75%
+040601 Geomorphology and Regolith and Landscape Evolution: 15%
+040313 Tectonics: 10%",5500,2500,,8000
+NCMAS-2023-25,Adrian Pudsey,Royal Melbourne Institute of Technology,Aerothermodynamics of High Speed Flight and Enabling Technologies,"091508 Turbulent Flows: 50%
+090107 Hypersonic Propulsion and Hypersonic Aerodynamics: 50%",2500,,,2500
+NCMAS-2023-69,Rajib Rahman,University of NSW,Multiscale Multiphysics Simulations of Silicon Quantum Information Processing Units,"020403 Condensed Matter Modelling and Density Functional Theory: 50%
+020603 Quantum Information, Computation and Communication: 50%",5000,,,5000
+NCMAS-2023-63,Dino Spagnoli,University of Western Australia,Computer Simulations of Co-Crystal and Defect Formations in Solids,"030700 Theoretical and Computational Chemistry: 30%
+020403 Condensed Matter Modelling and Density Functional Theory: 30%
+020404 Electronic and Magnetic Properties of Condensed Matter; Superconductivity: 20%
+040302 Extraterrestrial Geology: 20%",1000,3000,,4000
+NCMAS-2023-66,Michelle Coote,Flinders University,Computer-aided Chemical Design of Catalysts and Control Agents,"030305 Polymerisation Mechanisms: 20%
+030701 Quantum Chemistry: 20%
+030501 Free Radical Chemistry: 20%
+030505 Physical Organic Chemistry: 20%
+030601 Catalysis and Mechanisms of Reactions: 20%",8000,,,8000
+NCMAS-2023-91,Aijun Du,Queensland University of Technology,Computational Design and Discovery of Novel Nanomaterials for Low Energy Electronics and Sustainable Energy/Environmental Applications,"030799 Theoretical and Computational Chemistry not elsewhere classified: 40%
+020403 Condensed Matter Modelling and Density Functional Theory: 40%
+100708 Nanomaterials: 20%",2700,7000,,9700
+NCMAS-2023-40,Vincent Wheatley,University of Queensland,Scramjet-based Access-to-Space and Planetary Entry,"090107 Hypersonic Propulsion and Hypersonic Aerodynamics: 50%
+091504 Fluidisation and Fluid Mechanics: 30%
+091399 Mechanical Engineering not elsewhere classified: 20%",1000,10000,,11000
+NCMAS-2023-3,Yuan-Sen Ting,Australian National University,"Modeling Spectra and Light Curves of Stars: 3D Magneto-Hydrodynamic Stellar Atmosphere, Non-Equilibrium Radiative Transfer, and Machine Learning Generative Models","020110 Stellar Astronomy and Planetary Systems: 80%
+020104 Galactic Astronomy: 20%",15700,,,15700
+NCMAS-2023-92,Liangzhi Kou,Queensland University of Technology,2D functional materials for physical and chemical applications,"020403 Condensed Matter Modelling and Density Functional Theory: 55%
+030799 Theoretical and Computational Chemistry not elsewhere classified: 45%",3000,2900,,5900
+NCMAS-2023-97,Ian Young,University of Melbourne,Global and regional projections of ocean wave climate over the 21st century,"040500 Oceanography: 60%
+040104 Climate Change Processes: 40%",1000,,,1000
+NCMAS-2023-14,Toby Allen,Royal Melbourne Institute of Technology,Mechanisms of ion channel function and modulation.,"030799 Theoretical and Computational Chemistry not elsewhere classified: 50%
+029901 Biological Physics: 50%",1000,2000,,3000
+NCMAS-2023-64,Patrick Burr,University of NSW,Designing a hydrogen-tolerant metal alloy,"091207 Metals and Alloy Materials: 50%
+020403 Condensed Matter Modelling and Density Functional Theory: 25%
+030307 Theory and Design of Materials: 25%",1600,3600,,5200
+NCMAS-2023-114,Andrew Christofferson,Royal Melbourne Institute of Technology,"Multiscale computational investigation of materials and biomolecules for health, environmental, and commercial applications","030700 Theoretical and Computational Chemistry: 50%
+100703 Nanobiotechnology: 50%",2000,2500,,4500
+NCMAS-2023-78,Xiaoguang Duan,University of Adelaide,Regulation of potassium storage performance of molybdenum disulfide/nitrogen-doped carbon composite for potassium ion battery,"091305 Energy Generation, Conversion and Storage Engineering: 100%",1000,,,1000
+NCMAS-2023-18,Cheong Xin Chan,University of Queensland,Comparative and Evolutionary Genomics of Microbes from Diverse Environments,"060409 Molecular Evolution: 20%
+060408 Genomics: 20%
+060407 Genome Structure and Regulation: 20%
+060309 Phylogeny and Comparative Analysis: 20%
+010406 Stochastic Analysis and Modelling: 20%",7600,,,7600
+NCMAS-2023-143,Yan Jiao,University of Adelaide,Design Clean Energy Conversion and Storage Materials by Molecular Modelling,"091200 Materials Engineering: 50%
+100700 Nanotechnology: 30%
+030304 Physical Chemistry of Materials: 20%",5500,5500,,11000
+NCMAS-2023-131,Luke Bennetts,University of Adelaide,Analysing and developing wave–ice interactions in the CICE6 sea ice model,"040602 Glaciology: 60%
+049999 Earth Sciences not elsewhere classified: 40%",1000,,,1000
+NCMAS-2023-42,Irene Yarovsky,Royal Melbourne Institute of Technology,Theoretical Investigation of novel materials for industrial and biomedical applications,"030307 Theory and Design of Materials: 70%
+030799 Theoretical and Computational Chemistry not elsewhere classified: 30%",1000,5000,5000,11000
+NCMAS-2023-7,Ben Corry,Australian National University,"Molecular simulation of membrane receptors, transporters and pores","060110 Receptors and Membrane Biology: 50%
+060112 Structural Biology (incl. Macromolecular Modelling): 35%
+029901 Biological Physics: 10%
+090404 Membrane and Separation Technologies: 5%",3000,3400,4100,10500
+NCMAS-2023-105,Ahmad Jabbarzadeh,University of Sydney,Multiscale Simulations of Polymeric Systems,"100708 Nanomaterials: 40%
+090408 Rheology: 30%
+091309 Tribology: 30%",1000,,,1000
+NCMAS-2023-146,Ziqi Sun,Queensland University of Technology,Two-Dimensional Oxides Supported Non-noble Single-atom for Sustainable Fuel Generations,"030701 Quantum Chemistry: 40%
+020406 Surfaces and Structural Properties of Condensed Matter: 20%
+030601 Catalysis and Mechanisms of Reactions: 20%
+091305 Energy Generation, Conversion and Storage Engineering: 20%",1000,2000,,3000
+NCMAS-2023-73,Negin Nazarian,University of NSW,Urban canopy parameterization in mesoscale modeling to represent urban overheating and air quality,"040100 Atmospheric Sciences: 50%
+040105 Climatology (excl. Climate Change Processes): 50%",1000,,,1000
+NCMAS-2023-8,Andrew Neely,UNSW Canberra,Fluid-thermal-structural interactions for high-speed flight and propulsion,"090107 Hypersonic Propulsion and Hypersonic Aerodynamics: 40%
+090103 Aerospace Structures: 40%
+090101 Aerodynamics (excl. Hypersonic Aerodynamics): 20%",1000,,,1000
+NCMAS-2023-138,Steven Armfield,University of Sydney,Large Scale Natural Convection Boundary Layers with Non Oberbeck-Boussinesq Effects,"091501 Computational Fluid Dynamics: 45%
+091502 Computational Heat Transfer: 35%
+091508 Turbulent Flows: 20%",1000,,,1000
+NCMAS-2023-83,Amir Karton,University of New England,Using Supercomputers for Tackling Energy and Environmental Challenges in Australia,"030700 Theoretical and Computational Chemistry: 80%
+030701 Quantum Chemistry: 20%",2000,,,2000
+NCMAS-2023-35,Victoria Timchenko,University of NSW,Fluid dynamics and heat transfer enhancement for renewable and sustainable energy applications,"091502 Computational Heat Transfer: 40%
+091501 Computational Fluid Dynamics: 40%
+091300 Mechanical Engineering: 20%",1000,,,1000
+NCMAS-2023-111,Andrew Ooi,University of Melbourne,Gravity Current Driven Smoke Dispersion In a Stratified Ambient,"050204 Environmental Impact Assessment: 40%
+091502 Computational Heat Transfer: 30%
+091501 Computational Fluid Dynamics: 30%",1000,3000,2000,6000
+NCMAS-2023-68,Hrvoje Tkalcic,Australian National University,Probing the Australian-Pacific plate boundary by computational seismology: Macquarie Ridge in 3D,"040407 Seismology and Seismic Exploration: 70%
+040305 Marine Geoscience: 20%
+091103 Ocean Engineering: 10%",1500,,,1500
+NCMAS-2023-119,Simon Ringer,University of Sydney,Exploring structure-property correlations in advanced materials: Nexus between computational simulation and atomic resolution microscopy,"020403 Condensed Matter Modelling and Density Functional Theory: 50%
+091207 Metals and Alloy Materials: 30%
+020401 Condensed Matter Characterisation Technique Development: 20%",7000,13000,,20000
+NCMAS-2023-121,Ravichandar Babarao,Royal Melbourne Institute of Technology,In silico design of nanomaterials for energy and environmental sustainability applications,"020400 Condensed Matter Physics: 50%
+091200 Materials Engineering: 30%
+030700 Theoretical and Computational Chemistry: 20%",1400,3400,,4800
+NCMAS-2023-31,Ekaterina Pas,Monash University,Towards Sustainable Energy Storage Technologies,"030701 Quantum Chemistry: 40%
+030305 Polymerisation Mechanisms: 15%
+030601 Catalysis and Mechanisms of Reactions: 15%
+030307 Theory and Design of Materials: 15%
+091205 Functional Materials: 15%",1700,,6600,8300
+NCMAS-2023-41,Megan O'Mara,University of Queensland,Membrane targeting delivery systems for precision nanomedicine,"030403 Characterisation of Biological Macromolecules: 30%
+060112 Structural Biology (incl. Macromolecular Modelling): 25%
+030402 Biomolecular Modelling and Design: 25%
+060110 Receptors and Membrane Biology: 20%",1000,,4000,5000
+NCMAS-2023-77,Andrew Chacon,Other Australian Government Department,Modeling and developing neutron beamlines,029903 Medical Physics: 100%,1000,,,1000
+NCMAS-2023-75,Elizabeth Ritchie-Tyo,Monash University,Tropical Cyclone Studies,"040104 Climate Change Processes: 25%
+040503 Physical Oceanography: 25%
+040102 Atmospheric Dynamics: 25%
+040100 Atmospheric Sciences: 25%",1000,,,1000
+NCMAS-2023-82,Nikhil Medhekar,Monash University,Nanoscale Materials: From Atomic Structure to Functional Properties,"030701 Quantum Chemistry: 20%
+020403 Condensed Matter Modelling and Density Functional Theory: 20%
+100708 Nanomaterials: 20%
+020404 Electronic and Magnetic Properties of Condensed Matter; Superconductivity: 20%
+091207 Metals and Alloy Materials: 10%
+091205 Functional Materials: 10%",5400,8700,,14100
+NCMAS-2023-102,Santiago Badia,Monash University,Towards large-scale forward and inverse solvers for multiphysics problems with moving interfaces,"010302 Numerical Solution of Differential and Integral Equations: 60%
+010301 Numerical Analysis: 40%",1500,,,1500
+NCMAS-2023-99,Dietmar Mueller,University of Sydney,Earth dynamics and resources over the last billion years,"040402 Geodynamics: 40%
+040403 Geophysical Fluid Dynamics: 30%
+040607 Surface Processes: 20%
+040311 Stratigraphy (incl. Biostratigraphy and Sequence Stratigraphy): 10%",5800,1400,,7200
+NCMAS-2023-95,Lianzhou Wang,University of Queensland,Use of Computational and Numerical Methods to Investigate Solid Crystalline Structures for Renewable Energy Applications,"091200 Materials Engineering: 50%
+091205 Functional Materials: 50%",1000,1500,,2500
+NCMAS-2023-106,Martina Lessio,University of NSW,Computational insights into transition metal-based materials for sustainable technologies,"030700 Theoretical and Computational Chemistry: 70%
+030207 Transition Metal Chemistry: 10%
+030206 Solid State Chemistry: 10%
+030200 Inorganic Chemistry: 10%",1000,,,1000
+NCMAS-2023-80,Zhe Liu,University of Melbourne,Integrated Computational Materials Engineering for Energy Materials,"100708 Nanomaterials: 50%
+030699 Physical Chemistry not elsewhere classified: 25%
+020403 Condensed Matter Modelling and Density Functional Theory: 25%",2100,10000,,12100
+NCMAS-2023-93,Sherif Abbas,Deakin University,Energy Materials for a Circular Economy: Modelling Disorder in Spent Batteries,"020403 Condensed Matter Modelling and Density Functional Theory: 50%
+030701 Quantum Chemistry: 50%",,1000,,1000
+NCMAS-2023-59,Zaiping Guo,University of Adelaide,Interfacial Design for Rechargeable Ion Batteries,"030307 Theory and Design of Materials: 30%
+030604 Electrochemistry: 25%
+030600 Physical Chemistry (including Structural): 25%
+091200 Materials Engineering: 20%",1000,,,1000
+NCMAS-2023-4,Andrew Hogg,Australian National University,"The Ocean’s role in the climate system: from kilometres to global scales, from weeks to centuries","040503 Physical Oceanography: 50%
+040104 Climate Change Processes: 30%
+020303 Fluid Physics: 20%",12000,,,12000
+NCMAS-2023-58,Julio Soria,Monash University,"Investigation of the structure, evolution and transport properties of turbulent wall-bounded shear flows using direct numerical simulations","091508 Turbulent Flows: 70%
+091504 Fluidisation and Fluid Mechanics: 15%
+090101 Aerodynamics (excl. Hypersonic Aerodynamics): 15%",8000,24000,,32000
+NCMAS-2023-36,Claire Vincent,University of Melbourne,"Clouds, rain and Climate: Mapping a hierarchy of cloud and rainfall processes to our global climate system.","040102 Atmospheric Dynamics: 50%
+040107 Meteorology: 50%",1000,,,1000
+NCMAS-2023-67,Bishakhdatta Gayen,University of Melbourne,The role of convection and turbulent mixing in ocean circulation,"040403 Geophysical Fluid Dynamics: 50%
+040503 Physical Oceanography: 50%",1200,5000,1000,7200
+NCMAS-2023-135,Pramod Nair,Flinders University,Structure-based approaches to guide the discovery of novel anti-cancer agents for the treatment of myelofibrosis,"111204 Cancer Therapy (excl. Chemotherapy and Radiation Therapy): 60%
+111206 Haematological Tumours: 20%
+110202 Haematology: 20%",1000,,,1000
+NCMAS-2023-140,Evatt Hawkes,University of NSW,Direct Numerical Simulations of Turbulent Combustion,"091508 Turbulent Flows: 75%
+091305 Energy Generation, Conversion and Storage Engineering: 25%",1000,12000,20000,33000
+NCMAS-2023-129,Jian-Feng Nie,Monash University,"Atomistic Understanding of Solute Segregation, Precipitate Stacking and Impact of Solute Clusters on Deformation Modes",091200 Materials Engineering: 100%,1000,1700,,2700
+NCMAS-2023-98,Junming Ho,University of NSW,Accelerating the Design of Novel Catalysts and Drugs through Computational Chemistry,"030700 Theoretical and Computational Chemistry: 20%
+030505 Physical Organic Chemistry: 20%
+030602 Chemical Thermodynamics and Energetics: 20%
+030400 Medicinal and Biomolecular Chemistry: 20%
+030601 Catalysis and Mechanisms of Reactions: 20%",2000,3750,1000,6750
+NCMAS-2023-38,Anna Ukkola,University of NSW,Will an improved land surface model enhance seasonal prediction of drought?,"040104 Climate Change Processes: 70%
+040105 Climatology (excl. Climate Change Processes): 30%",1000,,,1000
+NCMAS-2023-16,Martin Singh,Monash University,Understanding climate change and variability using idealised and comprehensive climate models,"040102 Atmospheric Dynamics: 25%
+040104 Climate Change Processes: 25%
+040103 Atmospheric Radiation: 20%
+040107 Meteorology: 20%
+040105 Climatology (excl. Climate Change Processes): 10%",1000,,,1000
+NCMAS-2023-9,Timothy Duignan,Griffith University,Predicting electrolyte solution properties from first principles.,"030704 Statistical Mechanics in Chemistry: 25%
+030700 Theoretical and Computational Chemistry: 25%
+030605 Solution Chemistry: 25%
+030600 Physical Chemistry (including Structural): 25%",1000,,,1000
+NCMAS-2023-60,Tiffany Walsh,Deakin University,Development and application of nano interfacial simulations,"100708 Nanomaterials: 35%
+030704 Statistical Mechanics in Chemistry: 35%
+091202 Composite and Hybrid Materials: 20%
+030701 Quantum Chemistry: 10%",1000,500,800,2300
+NCMAS-2023-127,Lian Zhang,Monash University,Computational Study of Impurity-Doped Iron Oxides for Ketonisation Reaction,"030304 Physical Chemistry of Materials: 17%
+030700 Theoretical and Computational Chemistry: 17%
+030601 Catalysis and Mechanisms of Reactions: 17%
+030203 Inorganic Green Chemistry: 17%
+100708 Nanomaterials: 16%
+091200 Materials Engineering: 16%",1000,,,1000
+NCMAS-2023-6,Matthew Whiting,CSIRO,ASKAP Survey Science,"020103 Cosmology and Extragalactic Astronomy: 80%
+020104 Galactic Astronomy: 17%
+020110 Stellar Astronomy and Planetary Systems: 3%",,2000,,2000
+NCMAS-2023-134,David Wilson,La Trobe University,Quantum Chemical Molecular Properties,"030701 Quantum Chemistry: 40%
+030606 Structural Chemistry and Spectroscopy: 20%
+030207 Transition Metal Chemistry: 15%
+030402 Biomolecular Modelling and Design: 15%
+030602 Chemical Thermodynamics and Energetics: 10%",1000,,,1000
+NCMAS-2023-126,Christoph Federrath,Australian National University,From Interstellar Turbulence to the Formation of Stars,"020110 Stellar Astronomy and Planetary Systems: 50%
+020104 Galactic Astronomy: 25%
+020103 Cosmology and Extragalactic Astronomy: 25%",7300,22000,,29300
+NCMAS-2023-128,Mark Thompson,Monash University,"Transition, stability and control of bluff body flows","020303 Fluid Physics: 30%
+091504 Fluidisation and Fluid Mechanics: 30%
+091304 Dynamics, Vibration and Vibration Control: 20%
+090101 Aerodynamics (excl. Hypersonic Aerodynamics): 20%",2000,8000,,10000
+NCMAS-2023-125,Ravi Jagadeeshan,Monash University,Sticky polymers in flow: Nexus between microscopic and macroscopic dynamics,"090408 Rheology: 80%
+020405 Soft Condensed Matter: 20%",1000,,1000,2000
+NCMAS-2023-109,Cedric Simenel,Australian National University,Microscopic Studies of Nuclear Structure and Dynamics,"020202 Nuclear Physics: 90%
+020203 Particle Physics: 10%",1000,,,1000
+NCMAS-2023-76,Giuseppe Barca,Australian National University,Developing Accurate Chemical Models for Nanomaterial Interfaces and Drug Binding,"030700 Theoretical and Computational Chemistry: 70%
+080500 Distributed Computing: 30%",,,15000,15000
+NCMAS-2023-89,Benjamin Noble,Royal Melbourne Institute of Technology,Rational Design of Novel Catalysts and Precision Nanomaterials,"030700 Theoretical and Computational Chemistry: 60%
+030601 Catalysis and Mechanisms of Reactions: 20%
+030505 Physical Organic Chemistry: 20%",1000,,,1000
+NCMAS-2023-86,Adam Trevitt,University of Wollongong,Computational Investigation of the Chemistry of Reactive Intermediates,"030606 Structural Chemistry and Spectroscopy: 50%
+030505 Physical Organic Chemistry: 25%
+030101 Analytical Spectrometry: 25%",1000,,,1000
+NCMAS-2023-141,Lloyd Hollenberg,University of Melbourne,Quantum Computer Simulation and Development,"020600 Quantum Physics: 80%
+020403 Condensed Matter Modelling and Density Functional Theory: 20%",1000,500,500,2000
+NCMAS-2023-124,Evelyne Deplazes,University of Queensland,"Towards realistic models of permeability, pore formation and surface interactions in biological membranes","030403 Characterisation of Biological Macromolecules: 40%
+030402 Biomolecular Modelling and Design: 30%
+060112 Structural Biology (incl. Macromolecular Modelling): 30%",1000,,1000,2000
+NCMAS-2023-113,Louis Moresi,Australian National University,Evolution and dynamics of the Australian lithosphere,"040402 Geodynamics: 30%
+040403 Geophysical Fluid Dynamics: 30%
+080110 Simulation and Modelling: 30%
+040404 Geothermics and Radiometrics: 10%",1000,2800,,3800
+NCMAS-2023-62,James Hane,Curtin University of Technology,"Bioinformatic analysis of agriculturally important plants, pathogen and pests.","060102 Bioinformatics: 20%
+060408 Genomics: 20%
+080301 Bioinformatics Software: 20%
+070308 Crop and Pasture Protection (Pests, Diseases and Weeds): 20%
+060704 Plant Pathology: 20%",,1200,,1200
+NCMAS-2023-130,Derek Leinweber,University of Adelaide,Emergent Structure of Quantum Chromodynamics,"020203 Particle Physics: 40%
+020202 Nuclear Physics: 40%
+020602 Field Theory and String Theory: 20%",6500,5500,30000,42000
+NCMAS-2023-101,Ha Bui,Monash University,UNRAVELLING MICRO-MACRO LINKS IN PREDICTIONS OF GRANULAR FAILURE,"090501 Civil Geotechnical Engineering: 70%
+091402 Geomechanics and Resources Geotechnical Engineering: 30%",,1000,,1000
+NCMAS-2023-46,Justin Leontini,Swinburne University of Technology,Oscillatory flows in complex geometries,"091504 Fluidisation and Fluid Mechanics: 70%
+091501 Computational Fluid Dynamics: 30%",1000,3000,,4000
+NCMAS-2023-43,Hongwei An,University of Western Australia,Advanced numerical modelling for developing safer and more efficient ocean infrastructure,"091103 Ocean Engineering: 50%
+091104 Ship and Platform Hydrodynamics: 25%
+091100 Maritime Engineering: 15%
+091102 Naval Architecture: 10%",1000,5000,,6000
+NCMAS-2023-96,Adrian Sheppard,Australian National University,X-ray micro-tomography to probe the structure and properties of complex and hierarchical materials,"020406 Surfaces and Structural Properties of Condensed Matter: 20%
+029904 Synchrotrons; Accelerators; Instruments and Techniques: 20%
+050301 Carbon Sequestration Science: 20%
+080106 Image Processing: 20%
+090301 Biomaterials: 20%",1000,,,1000
+NCMAS-2023-30,Terry Frankcombe,UNSW Canberra,"Efficient chemical dynamics in gas phase, solid phase and heterogeneous systems","020403 Condensed Matter Modelling and Density Functional Theory: 30%
+030601 Catalysis and Mechanisms of Reactions: 30%
+030703 Reaction Kinetics and Dynamics: 30%
+030701 Quantum Chemistry: 10%",1300,,,1300
+NCMAS-2023-116,Oleg Tretiakov,University of NSW,Magnetic and Thermoelectric Properties of Topological Materials,"020403 Condensed Matter Modelling and Density Functional Theory: 50%
+020404 Electronic and Magnetic Properties of Condensed Matter; Superconductivity: 50%",4000,,,4000
+NCMAS-2023-71,Eirini Goudeli,University of Melbourne,Unveiling the Formation Pathways of Soot Particles by Hierarchical Modelling,"090405 Non-automotive Combustion and Fuel Engineering (incl. Alternative/Renewable Fuels): 60%
+090406 Powder and Particle Technology: 40%",2800,,,2800
+NCMAS-2023-49,Bram Hoex,University of NSW,Modelling of Transition Metal Oxides-based Low-Cost Catalysts and Use of Artificial-Intelligence,"030601 Catalysis and Mechanisms of Reactions: 40%
+020403 Condensed Matter Modelling and Density Functional Theory: 40%
+080100 Artificial Intelligence and Image Processing: 20%",4500,,,4500
+NCMAS-2023-94,Alexander Heger,Monash University,3D Simulations of Core-Collapse Supernovae,"020110 Stellar Astronomy and Planetary Systems: 40%
+020105 General Relativity and Gravitational Waves: 25%
+020106 High Energy Astrophysics; Cosmic Rays: 20%
+020202 Nuclear Physics: 10%
+020203 Particle Physics: 5%",4300,6000,,10300
+NCMAS-2023-32,Aman G. Kidanemariam,University of Melbourne,High-fidelity simulation of the dynamics and dispersion of microplastics in turbulent shallow flows,"090700 Environmental Engineering: 30%
+091103 Ocean Engineering: 30%
+090500 Civil Engineering: 25%
+091300 Mechanical Engineering: 15%",1000,,,1000
+NCMAS-2023-110,Colin Jackson,Australian National University,Computational Structural Biology and Protein Engineering,"030401 Biologically Active Molecules: 15%
+030400 Medicinal and Biomolecular Chemistry: 15%
+030499 Medicinal and Biomolecular Chemistry not elsewhere classified: 14%
+030405 Molecular Medicine: 14%
+030403 Characterisation of Biological Macromolecules: 14%
+030406 Proteins and Peptides: 14%
+030402 Biomolecular Modelling and Design: 14%",1000,,,1000
+NCMAS-2023-103,Vanessa Hayes,University of Sydney,Resolving Prostate Cancer Health Disparities Through Population-scale Genomic Interrogation,"060408 Genomics: 50%
+060102 Bioinformatics: 30%
+111203 Cancer Genetics: 20%",1090,,,1090
+NCMAS-2023-61,Matthew England,University of NSW,"Past, present and future climate variability and change in the Southern Hemisphere","040503 Physical Oceanography: 25%
+040102 Atmospheric Dynamics: 25%
+040104 Climate Change Processes: 25%
+040105 Climatology (excl. Climate Change Processes): 25%",6000,,,6000
+NCMAS-2023-84,Zongyou Yin,Australian National University,High-throughput screening of advanced catalysts based on first-principles calculations for CO2 Reduction,"091305 Energy Generation, Conversion and Storage Engineering: 20%
+030307 Theory and Design of Materials: 20%
+030306 Synthesis of Materials: 20%
+030301 Chemical Characterisation of Materials: 20%
+030300 Macromolecular and Materials Chemistry: 20%",1000,,,1000
+NCMAS-2023-26,Asaph Widmer-Cooper,University of Sydney,Computational Materials Design for Solar Energy Conversion,"030704 Statistical Mechanics in Chemistry: 40%
+030307 Theory and Design of Materials: 30%
+020405 Soft Condensed Matter: 30%",1000,1000,,2000
+NCMAS-2023-85,Mitra Safavi-Naeini,Other Australian Government Department,Dose Quantification in Particle therapy,"111208 Radiation Therapy: 40%
+029903 Medical Physics: 30%
+029901 Biological Physics: 15%
+020203 Particle Physics: 10%
+010500 Mathematical Physics: 5%",1000,,1000,2000
+NCMAS-2023-70,Ivan Kassal,University of Sydney,Charge and energy transport in disordered functional materials,"030307 Theory and Design of Materials: 50%
+030607 Transport Properties and Non-Equilibrium Processes: 30%
+020403 Condensed Matter Modelling and Density Functional Theory: 20%",1000,,,1000
+NCMAS-2023-19,Benjamin Galton-Fenzi,Australian Antarctic Division,Antarctic systems and future change,"040602 Glaciology: 30%
+040500 Oceanography: 30%
+040100 Atmospheric Sciences: 20%
+040104 Climate Change Processes: 20%",15000,,,15000
+NCMAS-2023-48,Ben Thornber,University of Sydney,Compressible Turbulent Flows,"091501 Computational Fluid Dynamics: 50%
+091508 Turbulent Flows: 50%",3500,6250,,9750
+NCMAS-2023-20,Gaetan Burgio,Australian National University,Uncovering novel phage-bacteria interactions by mining metagenomics and metatranscriptomic informations,"060500 Microbiology: 34%
+100400 Medical Biotechnology: 33%
+100401 Gene and Molecular Therapy: 33%",1600,,,1600
+NCMAS-2023-74,Carla Verdi,University of Sydney,First-principles design of atomic defects for quantum technologies,"020403 Condensed Matter Modelling and Density Functional Theory: 80%
+030307 Theory and Design of Materials: 20%",1000,,,1000
+NCMAS-2023-57,Alan Mark,University of Queensland,From molecules to cells   Understanding the structural and dynamic properties of cellular components at an atomic level.,"060112 Structural Biology (incl. Macromolecular Modelling): 40%
+030406 Proteins and Peptides: 30%
+030402 Biomolecular Modelling and Design: 30%",1000,2000,2000,5000
+NCMAS-2023-133,Robyn Schofield,University of Melbourne,"Atmospheric composition & chemistry modelling on global, regional & local scales","039901 Environmental Chemistry (incl. Atmospheric Chemistry): 30%
+040104 Climate Change Processes: 25%
+040101 Atmospheric Aerosols: 20%
+040108 Tropospheric and Stratospheric Physics: 15%
+040103 Atmospheric Radiation: 10%",1000,,,1000

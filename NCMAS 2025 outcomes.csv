@@ -1,0 +1,847 @@
+Project ID,Lead CI,Institution,Title,FoR-08,Gadi Allocation kSU,Setonix CPU Allocation kSU,Setonix GPU Allocation kSU,Total Allocation kSU
+NCMAS-2025-78,Rey Cheng Chin,University of Adelaide,Flow control for drag reduction in rough wall turbulent boundary layers,"401204 Computational methods in fluid flow, heat and mass transfer (incl. computational fluid dynamics) : 50%
+401207 Fundamental and theoretical fluid dynamics  : 50%
+280110 Expanding knowledge in engineering: 50%
+170104 Transport energy efficiency: 50%",2100,9500,,11600
+NCMAS-2025-31,Federico Maggi,University of Sydney,Global soil and water resource in a changing climate,"401103 Global and planetary environmental engineering: 40%
+401208 Geophysical and environmental fluid flows: 40%
+330404 Land use and environmental planning: 20%
+180603 Evaluation, allocation, and impacts of land use : 100%",,3500,,3500
+NCMAS-2025-82,Fabio Capitanio,Monash University,4-D Numerical Models of Tectonics on Earth and other planets,"370507 Planetary geology: 50%
+370604 Geodynamics: 50%
+280107 Expanding knowledge in the earth sciences: 100%",1400,,,1400
+NCMAS-2025-40,Ting Liao,Queensland University of Technology,Two-Dimensional Hybrids for Green Energy,"370401 Computational modelling and simulation in earth sciences: 25%
+400404 Electrochemical energy storage and conversion: 25%
+401605 Functional materials: 25%
+340309 Theory and design of materials: 25%
+170899 Renewable energy not elsewhere classified: 40%
+170704 Hydrogen production from renewable energy: 40%
+170302 Carbon capture and storage: 20%",1000,1800,,2800
+NCMAS-2025-104,Sang Lee,University of South Australia,Novel whole-genome approaches to capture the latent genetic architecture of complex traits,"310205 Proteomics and metabolomics: 20%
+310207 Statistical and quantitative genetics: 20%
+310509 Genomics: 20%
+300305 Animal reproduction and breeding: 20%
+310204 Genomics and transcriptomics: 20%
+200104 Prevention of human diseases and conditions: 34%
+200101 Diagnosis of human diseases and conditions: 33%
+100199 Environmentally sustainable animal production not elsewhere classified: 33%",1000,,,1000
+NCMAS-2025-155,Julian Gale,Curtin University of Technology,Atomistic Simulation for Geochemistry and Nanoscience,"510407 Surface properties of condensed matter: 30%
+340699 Physical chemistry not elsewhere classified: 25%
+340703 Statistical mechanics in chemistry: 20%
+370302 Inorganic geochemistry: 10%
+370505 Mineralogy and crystallography: 10%
+340704 Theoretical quantum chemistry: 5%
+280120 Expanding knowledge in the physical sciences: 50%
+280105 Expanding knowledge in the chemical sciences: 30%
+280107 Expanding knowledge in the earth sciences: 20%",2200,10000,5800,18000
+NCMAS-2025-150,Liangzhi Kou,Queensland University of Technology,2D functional materials for physical and chemical applications,"401605 Functional materials: 34%
+340701 Computational chemistry: 33%
+510403 Condensed matter modelling and density functional theory: 33%
+280120 Expanding knowledge in the physical sciences: 34%
+280105 Expanding knowledge in the chemical sciences: 33%
+280110 Expanding knowledge in engineering: 33%",1000,1500,,2500
+NCMAS-2025-81,Rongkun Zheng,University of Sydney,Atomistic simulation of advanced materials with combining first-principle calculation and deep-learning method: from microstructure to functionality,"510403 Condensed matter modelling and density functional theory: 60%
+401605 Functional materials: 20%
+510404 Electronic and magnetic properties of condensed matter; superconductivity: 20%
+280120 Expanding knowledge in the physical sciences: 50%
+170804 Solar-photovoltaic energy: 50%",2100,2800,,4900
+NCMAS-2025-89,Nicholas Williamson,University of Sydney,Dynamics of Intermittent and Suppressed Mixing Regimes in Australian Rivers,"401213 Turbulent flows : 50%
+401208 Geophysical and environmental fluid flows: 50%
+180301 Assessment and management of freshwater ecosystems: 34%
+180308 Surface water quantification, allocation and impact of depletion: 33%
+190504 Effects of climate change on Australia (excl. social impacts): 33%",1300,3400,,4700
+NCMAS-2025-101,Con Doolan,University of NSW,The aeroacoustics of turbulent flow interaction,"401213 Turbulent flows : 34%
+401206 Fluid-structure interaction and aeroacoustics : 33%
+401701 Acoustics and noise control (excl. architectural acoustics): 33%
+270203 Management of noise and vibration from transport activities: 34%
+140104 Emerging defence technologies: 33%
+170808 Wind energy: 33%",1000,,,1000
+NCMAS-2025-157,Yuan FENG,University of NSW,Natural-disaster resilience assessment of civil infrastructure systems under climate change,"370201 Climate change processes: 20%
+300706 Forestry fire management: 20%
+370903 Natural hazards: 20%
+400508 Infrastructure engineering and asset management: 20%
+400599 Civil engineering not elsewhere classified : 20%
+190101 Climate change adaptation measures (excl. ecosystem): 34%
+110403 Tourism infrastructure development: 33%
+240405 Network infrastructure equipment: 33%",1000,,,1000
+NCMAS-2025-28,Ziqi Sun,Queensland University of Technology,Two-Dimensional Oxides Supported Non-noble Single-atom for Fuel Generation and Storage,"400404 Electrochemical energy storage and conversion: 40%
+340704 Theoretical quantum chemistry: 30%
+340301 Inorganic materials (incl. nanomaterials): 30%
+170304 Energy storage (excl. hydrogen and batteries): 50%
+170401 Fuel cells (excl. solid oxide): 50%",1000,4200,,5200
+NCMAS-2025-91,Jared Cole,Royal Melbourne Institute of Technology,The materials science of next generation quantum devices.,"510404 Electronic and magnetic properties of condensed matter; superconductivity: 30%
+401804 Nanoelectronics: 30%
+510804 Quantum optics and quantum optomechanics: 20%
+510805 Quantum technologies: 20%
+280110 Expanding knowledge in engineering: 50%
+280120 Expanding knowledge in the physical sciences: 50%",1800,,,1800
+NCMAS-2025-146,Luming Shen,University of Sydney,Multiscale modelling of multiphase interaction in micro- and nano-porous media,"401902 Geomechanics and resources geotechnical engineering : 100%
+170302 Carbon capture and storage: 50%
+170604 Oil shale and tar sands mining and extraction: 50%",1000,,,1000
+NCMAS-2025-141,Callum Shakespeare,Australian National University,Parameterising unresolved ocean dynamics and thermodynamics,"370803 Physical oceanography: 50%
+370201 Climate change processes: 20%
+370105 Atmospheric dynamics: 20%
+370801 Biological oceanography: 10%
+180506 Oceanic processes (excl. in the Antarctic and Southern Oceans): 40%
+180402 Antarctic and Southern Ocean oceanic processes: 20%
+190599 Understanding climate change not elsewhere classified: 20%
+190501 Climate change models: 20%",1000,,,1000
+NCMAS-2025-98,Jack Evans,University of Adelaide,Simulations of emerging and conventional materials for gas separations and heterogeneous catalysis,"340309 Theory and design of materials: 60%
+340601 Catalysis and mechanisms of reactions: 10%
+340305 Physical properties of materials: 10%
+340307 Structure and dynamics of materials: 10%
+340301 Inorganic materials (incl. nanomaterials): 5%
+340302 Macromolecular materials: 5%
+280105 Expanding knowledge in the chemical sciences: 40%
+280120 Expanding knowledge in the physical sciences: 40%
+170304 Energy storage (excl. hydrogen and batteries): 10%
+170704 Hydrogen production from renewable energy: 10%",,5000,1000,6000
+NCMAS-2025-43,Andrew Christofferson,Royal Melbourne Institute of Technology,"Multiscale investigation of materials and biomolecules for health, environmental, and commercial applications","340701 Computational chemistry: 45%
+310299 Bioinformatics and computational biology not elsewhere classified: 30%
+340603 Colloid and surface chemistry: 25%
+280105 Expanding knowledge in the chemical sciences: 70%
+280102 Expanding knowledge in the biological sciences: 30%",1000,500,2200,3700
+NCMAS-2025-80,Jason Evans,University of NSW,Regional Climate Modelling in Australia,"370201 Climate change processes: 50%
+370202 Climatology: 25%
+370105 Atmospheric dynamics: 15%
+370903 Natural hazards: 10%
+190502 Climate variability (excl. social impacts): 20%
+190504 Effects of climate change on Australia (excl. social impacts): 20%
+190501 Climate change models: 20%
+190401 Climatological hazards (e.g extreme temperatures, drought and wildfires): 20%
+190507 Global effects of climate change (excl. Australia, New Zealand, Antarctica and the South Pacific) (excl. social impacts): 20%",1000,2300,,3300
+NCMAS-2025-156,Joel Brugger,Monash University,Thermodynamics of the Earth’s metal factory,"370302 Inorganic geochemistry: 100%
+250407 Mining and extraction of titanium minerals, zircon, and rare earth metal ores (e.g. monazite): 100%",,1000,,1000
+NCMAS-2025-128,Bishakhdatta Gayen,University of Melbourne,The role of convection and turbulent mixing in ocean circulation,"370803 Physical oceanography: 40%
+401208 Geophysical and environmental fluid flows: 30%
+401204 Computational methods in fluid flow, heat and mass transfer (incl. computational fluid dynamics) : 30%
+180402 Antarctic and Southern Ocean oceanic processes: 40%
+190507 Global effects of climate change (excl. Australia, New Zealand, Antarctica and the South Pacific) (excl. social impacts): 20%
+190503 Effects of climate change on Antarctic and sub-Antarctic environments (excl. social impacts): 20%
+190501 Climate change models: 20%",2600,9000,1000,12600
+NCMAS-2025-63,Joanna Achinger-Kawecka,University of Adelaide,Establishing the Regulatory Function of Transposable Elements in Cancer,"310204 Genomics and transcriptomics: 34%
+310504 Epigenetics (incl. genome methylation and epigenomics): 33%
+310508 Genome structure and regulation: 33%
+280103 Expanding knowledge in the biomedical and clinical science: 100%",1000,,,1000
+NCMAS-2025-42,Eduardo Eyras,Australian National University,Molecular Mining of Environmental Samples,"310201 Bioinformatic methods development: 35%
+461103 Deep learning: 34%
+310113 Synthetic biology: 31%
+280102 Expanding knowledge in the biological sciences: 50%
+280105 Expanding knowledge in the chemical sciences: 50%",1000,,,1000
+NCMAS-2025-5,Georgina Falster,Australian National University,The role of Indo-Pacific SST variability in global drought occurrence,"370904 Palaeoclimatology: 50%
+370201 Climate change processes: 30%
+370299 Climate change science not elsewhere classified: 20%
+190401 Climatological hazards (e.g extreme temperatures, drought and wildfires): 100%",1000,,,1000
+NCMAS-2025-45,Li Meng,Queensland University of Technology,On the dopability of thermoelectric semiconductors,"401603 Compound semiconductors: 100%
+170499 Energy transformation not elsewhere classified: 100%",1000,,,1000
+NCMAS-2025-2,Aijun Du,Queensland University of Technology,Computational Design and Discovery of Novel Nanomaterials for Low Energy Electronics and Sustainable Energy/Environmental Applications,"340799 Theoretical and computational chemistry not elsewhere classified: 35%
+510403 Condensed matter modelling and density functional theory: 35%
+401807 Nanomaterials: 30%
+280105 Expanding knowledge in the chemical sciences: 13%
+170704 Hydrogen production from renewable energy: 13%
+190301 Climate change mitigation strategies: 13%
+220302 Electronic information storage and retrieval services: 13%
+170804 Solar-photovoltaic energy: 12%
+280110 Expanding knowledge in engineering: 12%
+280120 Expanding knowledge in the physical sciences: 12%
+170401 Fuel cells (excl. solid oxide): 12%",2300,5600,,7900
+NCMAS-2025-105,Evelyne Deplazes,University of Queensland,Towards realistic models of membrane permeability and solute transport in biological membranes,"310112 Structural biology (incl. macromolecular modelling): 40%
+340401 Biologically active molecules: 30%
+340407 Proteins and peptides: 30%
+280105 Expanding knowledge in the chemical sciences: 50%
+280102 Expanding knowledge in the biological sciences: 50%",1000,,,1000
+NCMAS-2025-116,Li Wei,University of Sydney,Exploring Heterostructure Electrocatalysts for Enhanced Oxygen Evolution Reaction through Data Mining and High-throughput Computational Analysis,"401605 Functional materials: 100%
+170704 Hydrogen production from renewable energy: 100%",1000,,,1000
+NCMAS-2025-130,Rhodri Davies,Australian National University,Revealing the 4-D Evolution of Earth's Engine,"370604 Geodynamics: 100%
+280107 Expanding knowledge in the earth sciences: 70%
+190507 Global effects of climate change (excl. Australia, New Zealand, Antarctica and the South Pacific) (excl. social impacts): 30%",16400,6000,,22400
+NCMAS-2025-74,Lars Goerigk,University of Melbourne,Theoretical and Computational Quantum Chemistry Including Development of Computational Methods and Computational Materials Science,"340704 Theoretical quantum chemistry: 65%
+340701 Computational chemistry: 20%
+340304 Optical properties of materials: 15%
+280105 Expanding knowledge in the chemical sciences: 100%",1100,,,1100
+NCMAS-2025-72,Matthew Field,James Cook University,Developing Bioinformatics Capability to Diagnose Infectious Diseases using Clinical Metagenomics,"310208 Translational and applied bioinformatics: 50%
+310201 Bioinformatic methods development: 50%
+280103 Expanding knowledge in the biomedical and clinical science: 50%
+200101 Diagnosis of human diseases and conditions: 50%",2200,1000,,3200
+NCMAS-2025-59,Merlinde Kay,University of NSW,Australian Solar Resource Assessment and Forecasting,"400803 Electrical energy generation (incl. renewables, excl. photovoltaics): 34%
+410199 Climate change impacts and adaptation not elsewhere classified: 33%
+370108 Meteorology: 33%
+170899 Renewable energy not elsewhere classified: 34%
+190502 Climate variability (excl. social impacts): 33%
+180199 Air quality, atmosphere and weather not elsewhere classified: 33%",1000,,,1000
+NCMAS-2025-97,Christoph Arns,University of NSW,Multi-scale multi-physics modelling for geostorage applicatons,"410101 Carbon sequestration science: 40%
+370608 Petrophysics and rock mechanics: 30%
+401907 Petroleum and reservoir engineering: 30%
+280110 Expanding knowledge in engineering: 50%
+170302 Carbon capture and storage: 50%",2000,,,2000
+NCMAS-2025-44,Richard Edwards,University of Western Australia,Genomic and Bioinformatic Resources for Ocean Conservation and Management,"310509 Genomics: 40%
+310208 Translational and applied bioinformatics: 30%
+310201 Bioinformatic methods development: 30%
+180504 Marine biodiversity: 50%
+180203 Coastal or estuarine biodiversity: 30%
+180404 Biodiversity in Antarctic and Southern Ocean environments: 20%",,4700,,4700
+NCMAS-2025-66,Ha Bui,Monash University,Modelling gravity-induced rock fracture and fragmentation flow in cave mining: bridging laboratory and field scales,"400502 Civil geotechnical engineering : 50%
+401902 Geomechanics and resources geotechnical engineering : 50%
+250401 Mining and extraction of aluminium ores: 20%
+170601 Coal mining and extraction: 20%
+250404 Mining and extraction of iron ores: 20%
+250402 Mining and extraction of copper ores: 20%
+250499 Primary mining and extraction of minerals not elsewhere classified: 20%",2800,,,2800
+NCMAS-2025-75,Alpesh Malde,Griffith University,Understanding drug and glycan binding at an atomic level.,"340402 Biomolecular modelling and design: 50%
+340701 Computational chemistry: 50%
+280105 Expanding knowledge in the chemical sciences: 50%
+280102 Expanding knowledge in the biological sciences: 50%",1000,,,1000
+NCMAS-2025-37,Elizabeth Krenske,University of Queensland,Computational Design of New Molecular Technologies,"340701 Computational chemistry: 100%
+280105 Expanding knowledge in the chemical sciences: 100%",1000,2700,2300,6000
+NCMAS-2025-102,Richard Sandberg,University of Melbourne,High-fidelity simulations of turbulent flows in power generation and transport,"401213 Turbulent flows : 50%
+401204 Computational methods in fluid flow, heat and mass transfer (incl. computational fluid dynamics) : 30%
+400199 Aerospace engineering not elsewhere classified: 20%
+280110 Expanding knowledge in engineering: 50%
+170408 Transformation of gas into electricity: 25%
+170104 Transport energy efficiency: 25%",5000,9000,17000,31000
+NCMAS-2025-131,Weidi Liu,Queensland University of Technology,Advancing Thermoelectric Materials by Dual-phonon Engineering,"401605 Functional materials: 50%
+340301 Inorganic materials (incl. nanomaterials): 30%
+340305 Physical properties of materials: 20%
+240304 Composite materials: 100%",1000,,,1000
+NCMAS-2025-119,Abhirup Dikshit,University of NSW,Flash Drought & Fires,"370201 Climate change processes: 60%
+460502 Data mining and knowledge discovery: 40%
+180103 Atmospheric processes and dynamics: 70%
+220403 Artificial intelligence: 30%",1000,,,1000
+NCMAS-2025-95,Zhigang Chen,Queensland University of Technology,Using computational methods to develop thermoelectric materials,"401605 Functional materials: 100%
+170899 Renewable energy not elsewhere classified: 100%",3500,,,3500
+NCMAS-2025-121,Vanessa Hayes,University of Sydney,Resolving Prostate Cancer Health Disparities Through Population-scale Genomic Interrogation,"321103 Cancer genetics: 34%
+310509 Genomics: 33%
+310299 Bioinformatics and computational biology not elsewhere classified: 33%
+200201 Determinants of health: 34%
+130701 Understanding Africa’s past: 33%
+200204 Health inequalities: 33%",1000,,,1000
+NCMAS-2025-94,Tim Gould,Griffith University,Advancing quantum chemistry methods for excited states and solvents,"340704 Theoretical quantum chemistry: 60%
+340703 Statistical mechanics in chemistry: 20%
+510304 Thermodynamics and statistical physics : 20%
+280105 Expanding knowledge in the chemical sciences: 50%
+280120 Expanding knowledge in the physical sciences: 50%",1000,,,1000
+NCMAS-2025-46,Haoxin Mai,Royal Melbourne Institute of Technology,"Halide Perovskite Optoelectronics Developed by Integrated Synthesis, Calculation and Artificial Intelligence Methods","340309 Theory and design of materials: 30%
+340606 Photochemistry: 25%
+340601 Catalysis and mechanisms of reactions: 25%
+401807 Nanomaterials: 20%
+280105 Expanding knowledge in the chemical sciences: 50%
+280120 Expanding knowledge in the physical sciences: 30%
+170599 Environmentally sustainable energy activities not elsewhere classified: 10%
+170704 Hydrogen production from renewable energy: 10%",1000,,,1000
+NCMAS-2025-123,Megan O'Mara,University of Queensland,"Multiscale simulations of biological membranes, transporters and biopolymers","340701 Computational chemistry: 50%
+340401 Biologically active molecules: 25%
+340402 Biomolecular modelling and design: 25%
+200105 Treatment of human diseases and conditions: 50%
+280105 Expanding knowledge in the chemical sciences: 25%
+280102 Expanding knowledge in the biological sciences: 25%",9600,3300,9000,21900
+NCMAS-2025-34,Adrian Pudsey,Royal Melbourne Institute of Technology,Aerothermodynamics of High Speed Flight and Enabling Technologies,"401213 Turbulent flows : 34%
+400106 Hypersonic propulsion and hypersonic aerothermodynamics: 33%
+401211 Multiphysics flows (incl. multiphase and reacting flows): 33%
+140104 Emerging defence technologies: 100%",3600,4100,,7700
+NCMAS-2025-64,Cuong Nguyen,University of Wollongong,Molecular Dynamics Simulation of Aqueous Triblock Copolymer Lubricants in Metal Forming Applications,"401708 Tribology: 60%
+340309 Theory and design of materials: 20%
+400202 Automotive engineering materials : 20%
+110302 Professional, scientific and technical services: 50%
+220499 Information systems, technologies and services not elsewhere classified: 50%",1000,,,1000
+NCMAS-2025-20,Mark Krumholz,Australian National University,Star Formation and Feedback in a Turbulent Interstellar Medium,"510103 Cosmology and extragalactic astronomy: 30%
+510106 High energy astrophysics and galactic cosmic rays: 20%
+510104 Galactic astronomy: 20%
+510109 Stellar astronomy and planetary systems: 10%
+460104 Applications in physical sciences: 10%
+461306 Numerical computation and mathematical software: 10%
+280120 Expanding knowledge in the physical sciences: 80%
+280115 Expanding knowledge in the information and computing sciences: 20%",5200,,9200,14400
+NCMAS-2025-54,James Hane,Curtin University of Technology,"Bioinformatic analysis of agriculturally important plants, pathogen and pests.","300409 Crop and pasture protection (incl. pests, diseases and weeds): 25%
+310805 Plant pathology: 25%
+310204 Genomics and transcriptomics: 25%
+310208 Translational and applied bioinformatics: 25%
+280101 Expanding knowledge in the agricultural, food and veterinary sciences: 25%
+180602 Control of pests, diseases and exotic species in terrestrial environments : 25%
+260312 Wheat: 20%
+260301 Barley: 20%
+260303 Grain legumes: 10%",,1500,400,1900
+NCMAS-2025-107,Jodie Yuwono,University of Adelaide,Interfacial Design of Energy Materials,"340309 Theory and design of materials: 50%
+510403 Condensed matter modelling and density functional theory: 30%
+401699 Materials engineering not elsewhere classified : 20%
+280105 Expanding knowledge in the chemical sciences: 50%
+170301 Battery storage: 30%
+170899 Renewable energy not elsewhere classified: 20%",1000,1600,,2600
+NCMAS-2025-7,Cheong Xin Chan,University of Queensland,Comparative and Evolutionary Genomics of Microbes from Diverse Environments,"310509 Genomics: 25%
+310299 Bioinformatics and computational biology not elsewhere classified: 25%
+310801 Phycology (incl. marine grasses): 20%
+310410 Phylogeny and comparative analysis: 15%
+310409 Microbial taxonomy: 15%
+280111 Expanding knowledge in the environmental sciences: 50%
+280102 Expanding knowledge in the biological sciences: 50%",2800,,,2800
+NCMAS-2025-109,Stephan Rachel,University of Melbourne,Designing a next-generation quantum computer,"510404 Electronic and magnetic properties of condensed matter; superconductivity: 60%
+510407 Surface properties of condensed matter: 30%
+510499 Condensed matter physics not elsewhere classified: 10%
+280120 Expanding knowledge in the physical sciences: 100%",1000,,,1000
+NCMAS-2025-25,Min Hong,University of Southern Queensland,Computationally driven high-performance thermoelectric materials and devices,"401807 Nanomaterials: 50%
+401605 Functional materials: 50%
+170899 Renewable energy not elsewhere classified: 25%
+280110 Expanding knowledge in engineering: 25%
+280105 Expanding knowledge in the chemical sciences: 25%
+280120 Expanding knowledge in the physical sciences: 25%",1100,1200,,2300
+NCMAS-2025-84,Andrew Hung,Royal Melbourne Institute of Technology,Discovery and Design of Neuroactive Peptides for Potential Treatment of Pain,"340402 Biomolecular modelling and design: 60%
+340401 Biologically active molecules: 30%
+320999 Neurosciences not elsewhere classified: 10%
+280103 Expanding knowledge in the biomedical and clinical science: 50%
+280102 Expanding knowledge in the biological sciences: 50%",1000,1200,,2200
+NCMAS-2025-21,Tongliang Liu,University of Sydney,Machine Learning Accelerated Molecular Dynamics with Its Applications in Electrocatalytic Carbon Dioxide Reduction,"461199 Machine learning not elsewhere classified: 50%
+340601 Catalysis and mechanisms of reactions: 25%
+340604 Electrochemistry : 25%
+190399 Mitigation of climate change not elsewhere classified: 34%
+220402 Applied computing: 33%
+280105 Expanding knowledge in the chemical sciences: 33%",1200,,,1200
+NCMAS-2025-58,Francois Aguey-Zinsou,University of Sydney,Designing Non-precious Functional Materials for Efficient Hydrogen Storage,"340701 Computational chemistry: 100%
+170402 Hydrogen-based energy systems: 100%",1000,,,1000
+NCMAS-2025-71,Lisa Alexander,University of NSW,Extreme rainfall in regional climate model simulations,"370201 Climate change processes: 60%
+370202 Climatology: 30%
+370105 Atmospheric dynamics: 10%
+190501 Climate change models: 40%
+190502 Climate variability (excl. social impacts): 30%
+180103 Atmospheric processes and dynamics: 30%",1600,,,1600
+NCMAS-2025-16,Michael Banner,University of NSW,Direct 3D Numerical Simulation of the Air Sea Interface,"370803 Physical oceanography: 100%
+180402 Antarctic and Southern Ocean oceanic processes: 34%
+180406 Protection and conservation of Antarctic and Southern Ocean environments: 33%
+180506 Oceanic processes (excl. in the Antarctic and Southern Oceans): 33%",1000,,,1000
+NCMAS-2025-15,Baohua Jia,Royal Melbourne Institute of Technology,Exploration of the protective effect and breaking mechanisms in smart conformal coating on various materials by MD simulation,"401605 Functional materials: 100%
+170704 Hydrogen production from renewable energy: 100%",1000,,,1000
+NCMAS-2025-49,Luca Casagrande,Australian National University,"Modeling the Evolution and Spectra of Stars: 3D Magneto-Hydrodynamic Stellar Atmosphere, Non-Equilibrium Radiative Transfer, and Machine Learning Generative Models","510104 Galactic astronomy: 80%
+510109 Stellar astronomy and planetary systems: 20%
+280120 Expanding knowledge in the physical sciences: 80%
+280115 Expanding knowledge in the information and computing sciences: 20%",1600,,,1600
+NCMAS-2025-57,Jessica White,CSIRO,Using Machine Learning Force Fields to Enhance Understanding of Mineral Carbonation for Net Zero Solutions,"370399 Geochemistry not elsewhere classified: 25%
+410101 Carbon sequestration science: 25%
+461199 Machine learning not elsewhere classified: 25%
+510403 Condensed matter modelling and density functional theory: 25%
+170302 Carbon capture and storage: 100%",1000,,,1000
+NCMAS-2025-1,Ekaterina Pas,Monash University,Development of Next-Generation Density Functional Theory,"340704 Theoretical quantum chemistry: 50%
+340701 Computational chemistry: 50%
+280120 Expanding knowledge in the physical sciences: 50%
+280105 Expanding knowledge in the chemical sciences: 50%",2300,,6700,9000
+NCMAS-2025-36,Santiago Badia,Monash University,Towards large-scale forward and inverse solvers for multiphysics problems with moving interfaces,"490303 Numerical solution of differential and integral equations: 100%
+280118 Expanding knowledge in the mathematical sciences: 100%",1000,1700,,2700
+NCMAS-2025-11,Michelle Spencer,Royal Melbourne Institute of Technology,"Modelling Nanoscale Materials for Catalysis, Sensing and Device Applications","510403 Condensed matter modelling and density functional theory: 50%
+340799 Theoretical and computational chemistry not elsewhere classified: 50%
+280105 Expanding knowledge in the chemical sciences: 60%
+280120 Expanding knowledge in the physical sciences: 35%
+170301 Battery storage: 5%",3100,9900,,13000
+NCMAS-2025-65,Justin Leontini,Swinburne University of Technology,Oscillatory flows in complex geometries,"401203 Biomedical fluid mechanics : 35%
+401206 Fluid-structure interaction and aeroacoustics : 35%
+401207 Fundamental and theoretical fluid dynamics  : 15%
+401204 Computational methods in fluid flow, heat and mass transfer (incl. computational fluid dynamics) : 15%
+170807 Wave energy: 30%
+270101 Air freight: 30%
+200105 Treatment of human diseases and conditions: 20%
+200311 Urgent and critical care, and emergency medicine: 20%",,6800,,6800
+NCMAS-2025-32,Julio Soria,Monash University,"Investigation of the structure, evolution and transport properties of turbulent wall-bounded shear flows using direct numerical simulations","401213 Turbulent flows : 70%
+401204 Computational methods in fluid flow, heat and mass transfer (incl. computational fluid dynamics) : 30%
+280110 Expanding knowledge in engineering: 70%
+280120 Expanding knowledge in the physical sciences: 30%",8800,34300,,43100
+NCMAS-2025-111,Leon Chan,University of Melbourne,Numerical simulations of rough-wall boundary layers,"401213 Turbulent flows : 100%
+170104 Transport energy efficiency: 70%
+270299 Environmentally sustainable transport activities not elsewhere classified: 30%",1000,2600,1500,5100
+NCMAS-2025-56,Ben Thornber,University of Sydney,Unsteady Turbulent Flows,"401213 Turbulent flows : 34%
+401204 Computational methods in fluid flow, heat and mass transfer (incl. computational fluid dynamics) : 33%
+401208 Geophysical and environmental fluid flows: 33%
+180199 Air quality, atmosphere and weather not elsewhere classified: 34%
+140199 Defence not elsewhere classified: 33%
+280110 Expanding knowledge in engineering: 33%",,,1000,1000
+NCMAS-2025-135,Qiang Zhu,University of Wollongong,Multiscale computational methods development and insights into phenomena of chemical and biological significance,"340701 Computational chemistry: 50%
+340402 Biomolecular modelling and design: 50%
+280105 Expanding knowledge in the chemical sciences: 50%
+280102 Expanding knowledge in the biological sciences: 50%",1000,,,1000
+NCMAS-2025-60,Daniel Chung,University of Melbourne,Direct numerical simulation of wall-bounded and buoyancy-driven turbulent flows,"401213 Turbulent flows : 70%
+401204 Computational methods in fluid flow, heat and mass transfer (incl. computational fluid dynamics) : 30%
+280120 Expanding knowledge in the physical sciences: 100%",2200,24000,400,26600
+NCMAS-2025-136,Mark Thompson,Monash University,"Transition, stability and control of bluff body flows and wakes","401213 Turbulent flows : 25%
+401203 Biomedical fluid mechanics : 25%
+401204 Computational methods in fluid flow, heat and mass transfer (incl. computational fluid dynamics) : 25%
+401206 Fluid-structure interaction and aeroacoustics : 25%
+170806 Tidal energy: 34%
+280120 Expanding knowledge in the physical sciences: 33%
+280110 Expanding knowledge in engineering: 33%",,10000,500,10500
+NCMAS-2025-127,Andrew Ooi,University of Melbourne,Buoyancy-Driven Turbulence: Gravity Currents and Solar Chimneys,"401204 Computational methods in fluid flow, heat and mass transfer (incl. computational fluid dynamics) : 60%
+401208 Geophysical and environmental fluid flows: 40%
+280111 Expanding knowledge in the environmental sciences: 50%
+180199 Air quality, atmosphere and weather not elsewhere classified: 50%",1000,8300,16300,25600
+NCMAS-2025-122,Gaetan Burgio,Australian National University,Uncovering novel antiviral defence systems in prokaryotes for new biotechnologies.,"310113 Synthetic biology: 34%
+320601 Gene and molecular therapy : 33%
+310106 Enzymes: 33%
+280102 Expanding knowledge in the biological sciences: 50%
+200105 Treatment of human diseases and conditions: 50%",1100,,,1100
+NCMAS-2025-126,Susanna Guatelli,University of Wollongong,Development  and use of Monte Carlo particle transport simulations for bio-medical research,"510502 Medical physics: 50%
+511003 Synchrotrons: 25%
+511001 Accelerators: 25%
+280120 Expanding knowledge in the physical sciences: 100%",1800,,,1800
+NCMAS-2025-137,Aibing Yu,Monash University,Simulation and Modelling of Particulate Systems,"400402 Chemical and thermal processes in energy and combustion: 34%
+400406 Powder and particle technology: 33%
+400407 Process control and simulation : 33%
+240203 Basic iron and steel products: 25%
+170699 Mining and extraction of energy resources not elsewhere classified: 25%
+280110 Expanding knowledge in engineering: 25%
+250404 Mining and extraction of iron ores: 25%",4000,,,4000
+NCMAS-2025-151,Zhenxiang Cheng,University of Wollongong,Emerging two-dimensional altermagnetic materials,"510403 Condensed matter modelling and density functional theory: 80%
+401605 Functional materials: 20%
+280120 Expanding knowledge in the physical sciences: 80%
+280110 Expanding knowledge in engineering: 20%",1600,,,1600
+NCMAS-2025-33,Matthew Silcocks,University of Melbourne,Exploring Natural Selection and Host-Pathogen Coevolution in Southeast Asia and Oceania,"310501 Anthropological genetics : 30%
+310403 Biological adaptation: 25%
+310509 Genomics: 25%
+310704 Microbial genetics : 10%
+310499 Evolutionary biology not elsewhere classified: 10%
+280102 Expanding knowledge in the biological sciences: 34%
+280112 Expanding knowledge in the health sciences: 33%
+280113 Expanding knowledge in history, heritage and archaeology: 33%",1000,,,1000
+NCMAS-2025-22,Zhe Liu,University of Melbourne,Integrated Computational Materials Engineering for Energy Materials,"401605 Functional materials: 50%
+401807 Nanomaterials: 30%
+400404 Electrochemical energy storage and conversion: 20%
+280110 Expanding knowledge in engineering: 60%
+249999 Other manufacturing not elsewhere classified: 40%",8000,15200,2000,25200
+NCMAS-2025-19,Katrin Meissner,University of NSW,"Abrupt climate change events in the past, present and future","370201 Climate change processes: 50%
+370803 Physical oceanography: 20%
+370904 Palaeoclimatology: 20%
+370105 Atmospheric dynamics: 5%
+370802 Chemical oceanography: 3%
+370801 Biological oceanography: 2%
+190501 Climate change models: 100%",7900,,,7900
+NCMAS-2025-53,Christopher Leonardi,University of Queensland,Direct numerical simulation of multiphase flows in complex geometries,"401204 Computational methods in fluid flow, heat and mass transfer (incl. computational fluid dynamics) : 30%
+401211 Multiphysics flows (incl. multiphase and reacting flows): 30%
+401907 Petroleum and reservoir engineering: 20%
+400404 Electrochemical energy storage and conversion: 20%
+190308 Management of greenhouse gas emissions from manufacturing activities: 35%
+170409 Transformation of gas into fuels: 35%
+170603 Oil and gas extraction: 30%",1000,,1000,2000
+NCMAS-2025-118,Xiaotian WANG,University of Wollongong,Topological phonons in solids,"510403 Condensed matter modelling and density functional theory: 80%
+401605 Functional materials: 20%
+280120 Expanding knowledge in the physical sciences: 80%
+280110 Expanding knowledge in engineering: 20%",1000,,,1000
+NCMAS-2025-87,Kiet Tieu,University of Wollongong,Numerical Modelling of Double-Layered Hydroxyl Nanoparticles in Lubrications,"401699 Materials engineering not elsewhere classified : 20%
+510403 Condensed matter modelling and density functional theory: 20%
+401408 Manufacturing processes and technologies (excl. textiles): 20%
+401708 Tribology: 20%
+401807 Nanomaterials: 20%
+150404 Service industries standards and calibrations: 34%
+150403 Manufacturing standards and calibrations: 33%
+110302 Professional, scientific and technical services: 33%",1000,,,1000
+NCMAS-2025-73,Ravichandar Babarao,Royal Melbourne Institute of Technology,In silico design of nanomaterials for energy and environmental sustainability applications,"510403 Condensed matter modelling and density functional theory: 50%
+340207 Metal organic frameworks: 30%
+401699 Materials engineering not elsewhere classified : 20%
+280105 Expanding knowledge in the chemical sciences: 40%
+280120 Expanding knowledge in the physical sciences: 30%
+170302 Carbon capture and storage: 30%",2800,5500,200,8500
+NCMAS-2025-96,Simon Ringer,University of Sydney,Exploring structure-property correlations in advanced materials: Nexus between computational simulation and atomic resolution microscopy,"401401 Additive manufacturing : 34%
+401607 Metals and alloy materials: 33%
+510403 Condensed matter modelling and density functional theory: 33%
+280110 Expanding knowledge in engineering: 34%
+240604 Management of solid waste from manufacturing activities: 33%
+170104 Transport energy efficiency: 33%",7500,10000,5000,22500
+NCMAS-2025-61,Maryam Ghodrat,UNSW Canberra,CFD Simulation of fire-wind interaction and its effect on buildings in bushfire prone areas,"401204 Computational methods in fluid flow, heat and mass transfer (incl. computational fluid dynamics) : 34%
+330308 Fire safety design: 33%
+400507 Fire safety engineering: 33%
+190499 Natural hazards not elsewhere classified: 100%",1000,,,1000
+NCMAS-2025-67,Xiaotao JIANG,University of NSW,Identify Novel Antimicrobial Peptides Targeting Essential Receptors in Multidrug Resistant Bacteria,"320203 Clinical microbiology: 50%
+320506 Medical biochemistry - proteins and peptides (incl. medical proteomics): 50%
+240901 Antimicrobials, antifungals and biocides: 100%",1000,,,1000
+NCMAS-2025-99,Karen Wilson,Griffith University,Mechanistic insight into CO2 conversion to organonitrogen compounds,"340601 Catalysis and mechanisms of reactions: 100%
+190306 Management of greenhouse gas emissions from energy activities: 100%",,3700,,3700
+NCMAS-2025-48,Michelle Coote,Flinders University,Computer-aided Chemical Design of Catalysts and Control Agents,"340505 Physical organic chemistry : 50%
+340701 Computational chemistry: 50%
+280105 Expanding knowledge in the chemical sciences: 100%",9000,,,9000
+NCMAS-2025-154,Catherine Stampfl,University of Sydney,"First-Principles Investigations of Processes and Properties in Catalysis, Coatings, and Devices","510499 Condensed matter physics not elsewhere classified: 30%
+340309 Theory and design of materials: 25%
+340305 Physical properties of materials: 15%
+401605 Functional materials: 10%
+340304 Optical properties of materials: 10%
+401807 Nanomaterials: 10%
+170899 Renewable energy not elsewhere classified: 50%
+170499 Energy transformation not elsewhere classified: 50%",4500,7700,,12200
+NCMAS-2025-112,Steven Armfield,University of Sydney,Large Scale Natural Convection Boundary Layers with Variable Fluid Properties,"401204 Computational methods in fluid flow, heat and mass transfer (incl. computational fluid dynamics) : 50%
+401213 Turbulent flows : 50%
+190501 Climate change models: 34%
+170102 Industrial energy efficiency: 33%
+170103 Residential energy efficiency: 33%",1000,1600,,2600
+NCMAS-2025-139,Ira Cooke,James Cook University,Understanding and adapting to climate change through genomics of Australia’s marine life,"310406 Evolutionary impacts of climate change: 50%
+310208 Translational and applied bioinformatics: 50%
+280102 Expanding knowledge in the biological sciences: 100%",,1500,,1500
+NCMAS-2025-18,Robert Weatheritt,University of NSW,Creating an atlas of RNA transcript function and diversity across evolution,"310505 Gene expression (incl. microarray and other genome-wide approaches): 50%
+310299 Bioinformatics and computational biology not elsewhere classified: 50%
+280102 Expanding knowledge in the biological sciences: 100%",1000,,,1000
+NCMAS-2025-120,Martin Singh,Monash University,Understanding climate change and variability using idealised and comprehensive climate models,"370105 Atmospheric dynamics: 40%
+370201 Climate change processes: 40%
+370803 Physical oceanography: 20%
+190501 Climate change models: 50%
+190502 Climate variability (excl. social impacts): 25%
+190504 Effects of climate change on Australia (excl. social impacts): 25%",3600,,,3600
+NCMAS-2025-148,Elizabeth Ritchie-Tyo,Monash University,Tropical Cyclone Studies,"370201 Climate change processes: 34%
+370101 Adverse weather events: 33%
+419999 Other environmental sciences not elsewhere classified: 33%
+190301 Climate change mitigation strategies: 50%
+190399 Mitigation of climate change not elsewhere classified: 50%",1000,,,1000
+NCMAS-2025-133,Yun Wang,Griffith University,Computer-aided materials design for catalysis and energy applications,"340309 Theory and design of materials: 25%
+340604 Electrochemistry : 20%
+340701 Computational chemistry: 20%
+400404 Electrochemical energy storage and conversion: 20%
+340601 Catalysis and mechanisms of reactions: 15%
+170704 Hydrogen production from renewable energy: 35%
+170599 Environmentally sustainable energy activities not elsewhere classified: 30%
+170301 Battery storage: 25%
+280105 Expanding knowledge in the chemical sciences: 5%
+280110 Expanding knowledge in engineering: 5%",1400,6800,,8200
+NCMAS-2025-35,Chao Xiong,University of Western Sydney,Global Crop Microbiome Survey: A metagenomics-based workflow for identification of significant plant pathogens,"410603 Soil biology : 60%
+300804 Horticultural crop protection (incl. pests, diseases and weeds): 40%
+180605 Soils: 60%
+180606 Terrestrial biodiversity: 40%",1000,,,1000
+NCMAS-2025-144,David Wilson,La Trobe University,Quantum Chemical Molecular Properties,"340701 Computational chemistry: 60%
+340301 Inorganic materials (incl. nanomaterials): 20%
+340704 Theoretical quantum chemistry: 20%
+280105 Expanding knowledge in the chemical sciences: 50%
+240906 Inorganic industrial chemicals: 25%
+240904 Fine chemicals: 25%",1000,,,1000
+NCMAS-2025-26,Duncan Sutherland,UNSW Canberra,Physics based simulations of wild fire behaviour,"401299 Fluid mechanics and thermal engineering not elsewhere classified: 34%
+401204 Computational methods in fluid flow, heat and mass transfer (incl. computational fluid dynamics) : 33%
+401208 Geophysical and environmental fluid flows: 33%
+190508 Understanding the impact of natural hazards caused by climate change: 50%
+190499 Natural hazards not elsewhere classified: 50%",1000,,,1000
+NCMAS-2025-70,Nikhil Medhekar,Monash University,Nanoscale Materials: From Atomic Structure to Functional Properties,"401605 Functional materials: 20%
+510404 Electronic and magnetic properties of condensed matter; superconductivity: 15%
+400404 Electrochemical energy storage and conversion: 15%
+510403 Condensed matter modelling and density functional theory: 15%
+401607 Metals and alloy materials: 15%
+340604 Electrochemistry : 10%
+340704 Theoretical quantum chemistry: 10%
+280120 Expanding knowledge in the physical sciences: 50%
+280105 Expanding knowledge in the chemical sciences: 50%",4500,7000,,11500
+NCMAS-2025-14,Robert Edwards,Flinders University,Phage Bioinformatics,"310201 Bioinformatic methods development: 50%
+310206 Sequence analysis: 50%
+280102 Expanding knowledge in the biological sciences: 100%",,1300,9000,10300
+NCMAS-2025-6,Xue Yan,University of Melbourne,"Moiré patterns in Bilayer 2D Materials: Database, Machine-Learning Potentials, and Structural Manipulation","401807 Nanomaterials: 100%
+170306 Energy transmission and distribution (excl. hydrogen): 50%
+170199 Energy efficiency not elsewhere classified: 50%",,900,100,1000
+NCMAS-2025-62,Haibo Yu,University of Wollongong,Computer simulations of molecular systems and computer-aided molecular design,"340309 Theory and design of materials: 30%
+340701 Computational chemistry: 30%
+310112 Structural biology (incl. macromolecular modelling): 20%
+340402 Biomolecular modelling and design: 20%
+280102 Expanding knowledge in the biological sciences: 50%
+280105 Expanding knowledge in the chemical sciences: 50%",1400,4600,4800,10800
+NCMAS-2025-100,Ben Woodcroft,Queensland University of Technology,Large scale reconstruction of novel microbial genomes,"310703 Microbial ecology: 50%
+310204 Genomics and transcriptomics: 25%
+310299 Bioinformatics and computational biology not elsewhere classified: 25%
+280102 Expanding knowledge in the biological sciences: 50%
+190302 Management of greenhouse gas emissions from animal production: 20%
+190507 Global effects of climate change (excl. Australia, New Zealand, Antarctica and the South Pacific) (excl. social impacts): 20%
+280112 Expanding knowledge in the health sciences: 10%",3900,1000,,4900
+NCMAS-2025-147,Yan Jiao,University of Adelaide,Design Clean Energy Conversion and Storage Materials by Molecular Modelling,"401605 Functional materials: 34%
+400404 Electrochemical energy storage and conversion: 33%
+401807 Nanomaterials: 33%
+280105 Expanding knowledge in the chemical sciences: 50%
+280110 Expanding knowledge in engineering: 50%",8800,2400,,11200
+NCMAS-2025-106,Junming Ho,University of NSW,Accelerating the Design of Novel Catalysts and Drugs through Computational Chemistry,"340701 Computational chemistry: 80%
+340505 Physical organic chemistry : 20%
+280105 Expanding knowledge in the chemical sciences: 80%
+280120 Expanding knowledge in the physical sciences: 20%",1000,1100,1500,3600
+NCMAS-2025-149,Steven Sherwood,University of NSW,Improving atmospheric modelling across scales,"370109 Tropospheric and stratospheric physics: 50%
+370401 Computational modelling and simulation in earth sciences: 50%
+190501 Climate change models: 100%",1100,,,1100
+NCMAS-2025-24,Toby Allen,Royal Melbourne Institute of Technology,Mechanisms of ion channel function and modulation.,"510501 Biological physics: 51%
+340799 Theoretical and computational chemistry not elsewhere classified: 49%
+280102 Expanding knowledge in the biological sciences: 51%
+280105 Expanding knowledge in the chemical sciences: 49%",2600,,1600,4200
+NCMAS-2025-8,Giuseppe Barca,University of Melbourne,Enabling Rapid and High-Accuracy Digital Design of Covalent Therapeutics,"460607 High performance computing: 45%
+340704 Theoretical quantum chemistry: 40%
+461103 Deep learning: 15%
+240803 Human pharmaceutical treatments : 50%
+220402 Applied computing: 35%
+220403 Artificial intelligence: 15%",1000,,7000,8000
+NCMAS-2025-103,Nicolas Flament,University of Wollongong,The influence of mantle dynamics on the evolution of complex life,"370604 Geodynamics: 60%
+370401 Computational modelling and simulation in earth sciences: 20%
+370511 Structural geology and tectonics: 20%
+280107 Expanding knowledge in the earth sciences: 90%
+250307 Titanium minerals, zircon, and rare earth metal ore (e.g. monazite) exploration: 10%",1100,1500,,2600
+NCMAS-2025-115,Khalid Moinuddin,Victoria University,Enhancing Wildfire Behavior Modelling for Predictive Accuracy in Fire Management,"400507 Fire safety engineering: 50%
+300706 Forestry fire management: 50%
+190299 Environmental policy, legislation and standards not elsewhere classified: 50%
+190401 Climatological hazards (e.g extreme temperatures, drought and wildfires): 50%",1000,,,1000
+NCMAS-2025-29,Vincent Wheatley,University of Queensland,Hypersonic Propulsion and High-Speed Aerodynamics for Space and Defence Applications,"400106 Hypersonic propulsion and hypersonic aerothermodynamics: 100%
+270106 Space transport: 34%
+270199 Aerospace transport not elsewhere classified: 33%
+140104 Emerging defence technologies: 33%",,9500,,9500
+NCMAS-2025-113,Claire Vincent,University of Melbourne,"Clouds, rain and Climate: Mapping a hierarchy of cloud, ocean feedbacks and rainfall processes to our global climate system.","370201 Climate change processes: 34%
+370107 Cloud physics: 33%
+370101 Adverse weather events: 33%
+190504 Effects of climate change on Australia (excl. social impacts): 20%
+190502 Climate variability (excl. social impacts): 20%
+190501 Climate change models: 20%
+190405 Meteorological hazards (e.g. cyclones and storms): 20%
+190404 Hydrological hazards (e.g. avalanches and floods): 20%",2200,,,2200
+NCMAS-2025-90,Sabin Zahirovic,University of Sydney,DES: Deep-time Earth Simulator,"379901 Earth system sciences: 25%
+370401 Computational modelling and simulation in earth sciences: 20%
+370201 Climate change processes: 15%
+310406 Evolutionary impacts of climate change: 15%
+370507 Planetary geology: 15%
+370906 Regolith and landscape evolution: 10%
+280107 Expanding knowledge in the earth sciences: 40%
+190501 Climate change models: 20%
+190102 Ecosystem adaptation to climate change: 20%
+170899 Renewable energy not elsewhere classified: 10%
+250407 Mining and extraction of titanium minerals, zircon, and rare earth metal ores (e.g. monazite): 10%",1000,,,1000
+NCMAS-2025-134,Edward Doddridge,University of Tasmania,Antarctic systems and future change,"370801 Biological oceanography: 17%
+370201 Climate change processes: 17%
+370803 Physical oceanography: 17%
+370902 Glaciology: 17%
+370105 Atmospheric dynamics: 16%
+370104 Atmospheric composition, chemistry and processes: 16%
+190503 Effects of climate change on Antarctic and sub-Antarctic environments (excl. social impacts): 50%
+280111 Expanding knowledge in the environmental sciences: 25%
+280107 Expanding knowledge in the earth sciences: 25%",24000,,,24000
+NCMAS-2025-51,Nicholas Chilton,Australian National University,First-principles simulations of electron spins,"340799 Theoretical and computational chemistry not elsewhere classified: 50%
+340701 Computational chemistry: 50%
+280120 Expanding knowledge in the physical sciences: 50%
+280105 Expanding knowledge in the chemical sciences: 50%",1000,,,1000
+NCMAS-2025-117,Martina Lessio,University of NSW,Computational insights into transition metal-based materials for sustainable technologies,"340701 Computational chemistry: 60%
+401605 Functional materials: 20%
+340601 Catalysis and mechanisms of reactions: 20%
+280105 Expanding knowledge in the chemical sciences: 100%",1000,1500,,2500
+NCMAS-2025-13,Lianzhou Wang,University of Queensland,Use of Computational and Numerical Methods to Investigate Solid Crystalline Structures for Renewable Energy Applications,"340606 Photochemistry: 35%
+340601 Catalysis and mechanisms of reactions: 35%
+401807 Nanomaterials: 30%
+170302 Carbon capture and storage: 30%
+190302 Management of greenhouse gas emissions from animal production: 30%
+170704 Hydrogen production from renewable energy: 20%
+280105 Expanding knowledge in the chemical sciences: 20%",1000,,,1000
+NCMAS-2025-110,Amir Karton,University of New England,Tackling Energy and Environmental Challenges in Regional Australia,"340704 Theoretical quantum chemistry: 40%
+340701 Computational chemistry: 30%
+340309 Theory and design of materials: 30%
+280105 Expanding knowledge in the chemical sciences: 70%
+170899 Renewable energy not elsewhere classified: 30%",1500,,,1500
+NCMAS-2025-132,Adele Morrison,Australian National University,"The Ocean’s role in the climate system: from kilometres to global scales, from weeks to centuries","370803 Physical oceanography: 80%
+370201 Climate change processes: 20%
+190501 Climate change models: 20%
+190507 Global effects of climate change (excl. Australia, New Zealand, Antarctica and the South Pacific) (excl. social impacts): 20%
+190504 Effects of climate change on Australia (excl. social impacts): 20%
+190503 Effects of climate change on Antarctic and sub-Antarctic environments (excl. social impacts): 20%
+190502 Climate variability (excl. social impacts): 20%",17000,,,17000
+NCMAS-2025-47,Liang Zheng,Australian National University,MotionNetLite: Video Dynamics Distillation for Scalable Models,"460309 Video processing: 34%
+461199 Machine learning not elsewhere classified: 33%
+460304 Computer vision: 33%
+220407 Human-computer interaction: 25%
+140105 Intelligence, surveillance and space: 25%
+200303 Health surveillance: 25%
+140109 National security: 25%",1000,,,1000
+NCMAS-2025-55,Antoine de Weck,Children's Cancer Institute,Computational Exploration of Cryptic Exons as Small Molecule targets for Oncogene Therapy,"329999 Other biomedical and clinical sciences not elsewhere classified: 34%
+460299 Artificial intelligence not elsewhere classified: 33%
+310299 Bioinformatics and computational biology not elsewhere classified: 33%
+280102 Expanding knowledge in the biological sciences: 34%
+280103 Expanding knowledge in the biomedical and clinical science: 33%
+200199 Clinical health not elsewhere classified: 33%",1000,,,1000
+NCMAS-2025-108,Robyn Schofield,University of Melbourne,"Atmospheric composition & chemistry modelling on global, regional & local scales","370201 Climate change processes: 25%
+401101 Air pollution modelling and control: 25%
+370103 Atmospheric aerosols: 25%
+370104 Atmospheric composition, chemistry and processes: 25%
+190501 Climate change models: 18%
+190504 Effects of climate change on Australia (excl. social impacts): 17%
+190503 Effects of climate change on Antarctic and sub-Antarctic environments (excl. social impacts): 17%
+190301 Climate change mitigation strategies: 16%
+190507 Global effects of climate change (excl. Australia, New Zealand, Antarctica and the South Pacific) (excl. social impacts): 16%
+180101 Air quality: 16%",1000,,,1000
+NCMAS-2025-41,Hanna Suominen,Australian National University,Simulation of cortical microcircuits to understand brain dynamics and machine learning for marker discovery and monitoring in neurological conditions,"460207 Modelling and simulation: 40%
+460307 Multimodal analysis and synthesis: 30%
+461105 Reinforcement learning: 30%
+220402 Applied computing: 40%
+220403 Artificial intelligence: 30%
+280115 Expanding knowledge in the information and computing sciences: 30%",1000,,,1000
+NCMAS-2025-85,Max Ward,University of Western Australia,Deep Reinforcement Learning for Optimized mRNA Design Using Policy-Guided Walks,"310201 Bioinformatic methods development: 70%
+461105 Reinforcement learning: 30%
+280103 Expanding knowledge in the biomedical and clinical science: 70%
+280115 Expanding knowledge in the information and computing sciences: 30%",,250,750,1000
+NCMAS-2025-4,Pramod Nair,Flinders University,Molecular dynamics simulations of protein-ligand systems: from structure function relationships to drug discovery,"321104 Cancer therapy (excl. chemotherapy and radiation therapy): 17%
+320705 Medical virology : 17%
+321405 Pharmaceutical sciences: 17%
+321401 Basic pharmacology : 17%
+340499 Medicinal and biomolecular chemistry not elsewhere classified: 16%
+340402 Biomolecular modelling and design: 16%
+280105 Expanding knowledge in the chemical sciences: 25%
+280112 Expanding knowledge in the health sciences: 25%
+280102 Expanding knowledge in the biological sciences: 25%
+240803 Human pharmaceutical treatments : 25%",1000,1300,200,2500
+NCMAS-2025-52,Yuantong Gu,Queensland University of Technology,Phase Transitions of Poly(vinylidene fluoride) under Mechanical Deformations,"340302 Macromolecular materials: 34%
+401609 Polymers and plastics: 33%
+340307 Structure and dynamics of materials: 33%
+120304 Polymeric materials and paints: 50%
+280110 Expanding knowledge in engineering: 50%",1100,,,1100
+NCMAS-2025-12,Matthew Hole,Australian National University,Computational Applications in Equilibrium and Instabilities of Advanced Plasma Confinement Geometries,"510602 Plasma physics; fusion plasmas; electrical discharges: 100%
+170403 Nuclear energy: 100%",1000,,,1000
+NCMAS-2025-92,Luke Bennetts,University of Adelaide,Assessing wave–sea ice interactions in a coupled ocean–sea ice–wave model,"370902 Glaciology: 40%
+370803 Physical oceanography: 30%
+370201 Climate change processes: 30%
+190501 Climate change models: 60%
+280107 Expanding knowledge in the earth sciences: 40%",2100,,,2100
+NCMAS-2025-143,Chris Power,University of Western Australia,Experimenting with the physics of galaxy formation with the Solás Simulations Suite,"510103 Cosmology and extragalactic astronomy: 100%
+280120 Expanding knowledge in the physical sciences: 100%",1000,2900,,3900
+NCMAS-2025-145,Judy Hart,University of NSW,Design and development of photoactive and catalytic materials for efficient solar-to-fuel conversion,"401605 Functional materials: 60%
+340309 Theory and design of materials: 20%
+510403 Condensed matter modelling and density functional theory: 20%
+170704 Hydrogen production from renewable energy: 60%
+170304 Energy storage (excl. hydrogen and batteries): 40%",1000,,,1000
+NCMAS-2025-88,Loretti Dobrescu,University of NSW,Indirect inference in high dimensional dynamic economies,"380111 Labour economics : 15%
+380112 Macroeconomics (incl. monetary and fiscal theory): 15%
+380113 Public economics - public choice: 14%
+380202 Econometric and statistical methods: 14%
+380203 Economic models and forecasting: 14%
+380115 Public economics - taxation and revenue: 14%
+380114 Public economics - publicly provided goods: 14%
+170304 Energy storage (excl. hydrogen and batteries): 17%
+280108 Expanding knowledge in economics: 17%
+159902 Ecological economics: 17%
+150203 Economic growth: 17%
+280118 Expanding knowledge in the mathematical sciences: 16%
+150299 Macroeconomics not elsewhere classified: 16%",3400,,,3400
+NCMAS-2025-83,Alan Mark,University of Queensland,"From molecules to cells:   Probing the structural, dynamic and quantum dynamic properties of cellular components at an atomic level.","340701 Computational chemistry: 30%
+340407 Proteins and peptides: 20%
+320602 Medical biotechnology diagnostics (incl. biosensors): 15%
+461307 Quantum computation: 15%
+490203 Mathematical aspects of classical mechanics, quantum mechanics and quantum information theory: 10%
+340704 Theoretical quantum chemistry: 10%
+280120 Expanding knowledge in the physical sciences: 25%
+280105 Expanding knowledge in the chemical sciences: 25%
+280115 Expanding knowledge in the information and computing sciences: 25%
+280102 Expanding knowledge in the biological sciences: 25%",3700,15000,9000,27700
+NCMAS-2025-138,Debra Bernhardt,University of Queensland,"Molecular systems out of equilibrium: theory, simulation and application","510403 Condensed matter modelling and density functional theory: 20%
+510304 Thermodynamics and statistical physics : 20%
+340309 Theory and design of materials: 20%
+340701 Computational chemistry: 20%
+340609 Transport properties and non-equilibrium processes: 20%
+280105 Expanding knowledge in the chemical sciences: 50%
+280120 Expanding knowledge in the physical sciences: 25%
+280110 Expanding knowledge in engineering: 25%",1000,6100,1400,8500
+NCMAS-2025-77,Mark Hoggard,Australian National University,Next generation forecasts of 21st century ground motion and sea-level rise across the Indo-Pacific region driven by global climate change,"370604 Geodynamics: 50%
+370201 Climate change processes: 25%
+370904 Palaeoclimatology: 25%
+190506 Effects of climate change on the South Pacific (excl. Australia and New Zealand) (excl. social impacts): 40%
+190504 Effects of climate change on Australia (excl. social impacts): 40%
+140109 National security: 20%",3700,,,3700
+NCMAS-2025-27,Mohsen Talei,University of Melbourne,Developing predictive tools for cleaner combustion,"401213 Turbulent flows : 50%
+401701 Acoustics and noise control (excl. architectural acoustics): 25%
+401204 Computational methods in fluid flow, heat and mass transfer (incl. computational fluid dynamics) : 25%
+170402 Hydrogen-based energy systems: 50%
+170102 Industrial energy efficiency: 25%
+280110 Expanding knowledge in engineering: 25%",1000,8000,500,9500
+NCMAS-2025-86,Rajib Rahman,University of NSW,Multiscale Multiphysics Simulations of Silicon Quantum Information Processing Units,"510403 Condensed matter modelling and density functional theory: 50%
+461307 Quantum computation: 50%
+280120 Expanding knowledge in the physical sciences: 50%
+280115 Expanding knowledge in the information and computing sciences: 25%
+220402 Applied computing: 25%",7600,,,7600
+NCMAS-2025-17,Hongwei An,University of Western Australia,Advanced numerical modelling for developing safer and more efficient ocean infrastructure,"401503 Ocean engineering: 30%
+401504 Ship and platform structures (incl. maritime hydrodynamics): 25%
+401204 Computational methods in fluid flow, heat and mass transfer (incl. computational fluid dynamics) : 25%
+401209 Hydrodynamics and hydraulic engineering: 20%
+280110 Expanding knowledge in engineering: 100%",,5300,2800,8100
+NCMAS-2025-129,Jen Li,University of Sydney,Spatial transcriptomics and genomic biomarker to drive precision medicine and better outcomes in kidney transplantation.,"320214 Nephrology and urology : 40%
+320408 Transplantation immunology : 30%
+310509 Genomics: 30%
+280103 Expanding knowledge in the biomedical and clinical science: 100%",1000,,,1000
+NCMAS-2025-140,Samaneh Sadat Setayandeh,University of NSW,Ultra-wide band gap semiconductors for harsh environment applications,"401603 Compound semiconductors: 100%
+170102 Industrial energy efficiency: 100%",1000,,,1000
+NCMAS-2025-50,Seyhan Yazar,Garvan Institute of Medical Research,Applying OCCAMS molecular razor to study the role of EBV in MS pathogenesis,"320403 Autoimmunity : 34%
+320406 Immunogenetics (incl. genetic immunology): 33%
+320905 Neurology and neuromuscular diseases: 33%
+200412 Preventive medicine : 100%",1200,,,1200
+NCMAS-2025-124,Alexander Heger,Monash University,3D Simulations of Core-Collapse Supernovae,"510105 General relativity and gravitational waves: 40%
+510106 High energy astrophysics and galactic cosmic rays: 30%
+510109 Stellar astronomy and planetary systems: 25%
+510601 Nuclear physics: 5%
+280120 Expanding knowledge in the physical sciences: 100%",5900,6600,,12500
+NCMAS-2025-10,Timothy Raupach,University of NSW,Severe storms under climate change in Australia,"370201 Climate change processes: 50%
+370101 Adverse weather events: 25%
+370903 Natural hazards: 25%
+190508 Understanding the impact of natural hazards caused by climate change: 60%
+190504 Effects of climate change on Australia (excl. social impacts): 40%",1000,,,1000
+NCMAS-2025-79,Anna Trigos,Peter MacCallum Cancer Centre,High performance compute for better personalised medicine for cancer patients,"310206 Sequence analysis: 12%
+321103 Cancer genetics: 11%
+321106 Haematological tumours: 11%
+310204 Genomics and transcriptomics: 11%
+321107 Liquid biopsies: 11%
+321109 Predictive and prognostic markers : 11%
+321111 Solid tumours: 11%
+310201 Bioinformatic methods development: 11%
+310208 Translational and applied bioinformatics: 11%
+200101 Diagnosis of human diseases and conditions: 20%
+200105 Treatment of human diseases and conditions: 20%
+200502 Health related to ageing: 20%
+200504 Men's health: 20%
+200509 Women's and maternal health: 20%",,1600,200,1800
+NCMAS-2025-153,Tyler Rohr,University of Tasmania,mCDrive: Marine Carbon Dioxide Removal Impact and Validation Experiments,"370802 Chemical oceanography: 70%
+410101 Carbon sequestration science: 30%
+190501 Climate change models: 80%
+159901 Carbon and emissions trading: 20%",1000,,,1000
+NCMAS-2025-142,Benjamin Noble,Royal Melbourne Institute of Technology,Rational Design of Novel Catalysts and Precision Nanomaterials,"340505 Physical organic chemistry : 60%
+340601 Catalysis and mechanisms of reactions: 20%
+340799 Theoretical and computational chemistry not elsewhere classified: 20%
+280105 Expanding knowledge in the chemical sciences: 80%
+280110 Expanding knowledge in engineering: 20%",1000,,,1000
+NCMAS-2025-125,Matthew Whiting,CSIRO,ASKAP Survey Science,"510103 Cosmology and extragalactic astronomy: 40%
+510104 Galactic astronomy: 40%
+510109 Stellar astronomy and planetary systems: 20%
+280120 Expanding knowledge in the physical sciences: 100%",,2900,,2900
+NCMAS-2025-69,Ben Corry,Australian National University,"Molecular simulation of membrane receptors, transporters and pores","310110 Receptors and membrane biology: 60%
+310112 Structural biology (incl. macromolecular modelling): 40%
+280102 Expanding knowledge in the biological sciences: 55%
+200105 Treatment of human diseases and conditions: 30%
+200103 Human pain management: 15%",3000,,15700,18700
+NCMAS-2025-9,Matthew England,University of NSW,"Past, present and future climate variability and change in the Southern Ocean","370803 Physical oceanography: 60%
+370201 Climate change processes: 40%
+190502 Climate variability (excl. social impacts): 40%
+190503 Effects of climate change on Antarctic and sub-Antarctic environments (excl. social impacts): 40%
+190501 Climate change models: 20%",15700,,,15700
+NCMAS-2025-68,Patrick Burr,University of NSW,Radiation-tolerant materials for fusion energy,"401607 Metals and alloy materials: 40%
+401601 Ceramics : 40%
+401906 Nuclear engineering (incl. fuel enrichment and waste processing and storage): 10%
+340305 Physical properties of materials: 10%
+170403 Nuclear energy: 60%
+170402 Hydrogen-based energy systems: 40%",1100,3500,,4600
+NCMAS-2025-3,Adrian Sheppard,Australian National University,X-ray micro-tomography to probe the structure and properties of complex and hierarchical materials,"460303 Computational imaging: 35%
+510406 Structural properties of condensed matter: 20%
+511002 Instruments and techniques: 20%
+410101 Carbon sequestration science: 15%
+400302 Biomaterials : 10%
+280110 Expanding knowledge in engineering: 30%
+280120 Expanding knowledge in the physical sciences: 25%
+190309 Management of greenhouse gas emissions from mineral resources activities: 20%
+280102 Expanding knowledge in the biological sciences: 15%
+190304 Management of greenhouse gas emissions from construction activities: 10%",1000,,,1000
+NCMAS-2025-30,Yongjun Peng,University of Queensland,The Interactions of Oxidised Starch Biopolymers with Gold and Pyrrhotite in Aqueous Electrolytes,"401904 Mineral processing/beneficiation: 60%
+340604 Electrochemistry : 40%
+250205 Concentrating processes of base metal ores (excl. aluminium and iron ores): 50%
+250199 Management of environmental impacts from mineral resource activities not elsewhere classified: 50%",1000,,,1000
+NCMAS-2025-38,May Pedersen,University of Sydney,Asteroseismic modelling of massive stars,"510109 Stellar astronomy and planetary systems: 80%
+510104 Galactic astronomy: 20%
+280120 Expanding knowledge in the physical sciences: 100%",1000,,,1000
+NCMAS-2025-152,Oleg Tretiakov,University of NSW,Magnetic and Thermoelectric Properties of Topological Materials,"510404 Electronic and magnetic properties of condensed matter; superconductivity: 50%
+510403 Condensed matter modelling and density functional theory: 30%
+340309 Theory and design of materials: 20%
+280120 Expanding knowledge in the physical sciences: 100%",6300,,,6300
+NCMAS-2025-93,James Zanotti,University of Adelaide,Quantum chromodynamics in focus: hadron structure and high-precision tests,"510601 Nuclear physics: 60%
+510703 Particle physics: 40%
+280120 Expanding knowledge in the physical sciences: 90%
+280115 Expanding knowledge in the information and computing sciences: 10%",4800,6000,17000,27800
+NCMAS-2025-23,Carla Verdi,University of Queensland,"First-principles design and characterisation of materials for quantum technologies, clean energy and spintronics","510403 Condensed matter modelling and density functional theory: 80%
+340309 Theory and design of materials: 20%
+280120 Expanding knowledge in the physical sciences: 100%",1000,2200,,3200
+NCMAS-2025-39,Asaph Widmer-Cooper,University of Sydney,Computational Materials Design for Solar Energy Conversion,"340703 Statistical mechanics in chemistry: 40%
+510405 Soft condensed matter: 30%
+340309 Theory and design of materials: 30%
+280105 Expanding knowledge in the chemical sciences: 100%",1000,1500,,2500
+NCMAS-2025-76,David Pontin,University of Newcastle,Data-driven modelling of solar flares and eruptions for space weather prediction,"510108 Solar physics: 34%
+510602 Plasma physics; fusion plasmas; electrical discharges: 33%
+510902 Heliophysics and space weather: 33%
+270106 Space transport: 100%",2400,,,2400
+NCMAS-2025-114,Evatt Hawkes,University of NSW,Direct Numerical Simulations of Turbulent Combustion,"401213 Turbulent flows : 50%
+401211 Multiphysics flows (incl. multiphase and reacting flows): 30%
+401703 Energy generation, conversion and storage (excl. chemical and electrical): 20%
+170501 Management of gaseous waste from energy activities (excl. greenhouse gases): 20%
+190306 Management of greenhouse gas emissions from energy activities: 20%
+190305 Management of greenhouse gas emissions from electricity generation: 20%
+170402 Hydrogen-based energy systems: 20%
+190311 Management of greenhouse gas emissions from transport activities: 20%",5000,10000,17000,32000
