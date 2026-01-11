@@ -6,3 +6,6 @@ dependencies:
   - numpy
   - matplotlib
   - pandas
+  - jupyterlab
+  - anywidget
+  - plotly[express]
